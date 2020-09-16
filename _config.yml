@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Elias W. BA
+title: Papa Séga WADE
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Les Maths et IA 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
+avatar: "/img/avatar_psw.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -57,7 +57,7 @@ footer-img: "/img/footerbg.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: eliaswalyba
+  name: pasegawade
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -65,16 +65,16 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "eliaswalyba@gmail.com"
+  email: "pasega.wade@gmail.com"
   # facebook: deanattali
-  github: eliaswalyba
-  twitter: eliaswalyba
+  github: papasega
+  twitter: papasegaw
 #  reddit: yourname
-  linkedin: eliaswalyba
+  linkedin: papasegawade
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: maths_psw
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "eliaswalyba.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pasegawade.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -115,7 +115,7 @@ url-pretty: "eliaswalyba.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "eliaswalyba"
+disqus: "pasegawade"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
