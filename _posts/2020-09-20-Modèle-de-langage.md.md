@@ -1,12 +1,12 @@
 ---
 published: true
-title: Modèle de langage 
+title: Introduction en MAchine Learning  
 collection: ml
 layout: single
 author_profile: true
 read_time: true
 categories: [machinelearning]
-excerpt : "Traitement automatique de la parole"
+excerpt : "Apprentissage Automatique"
 header :
     overlay_image: "hhttps://github.com/papasega/pasegawade.github.io/tree/master/img/posts/ASR.png"
     
