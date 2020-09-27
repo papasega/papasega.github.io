@@ -49,7 +49,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "/img/footerbg.png"
+footer-img: "/img/chou_brocolis.png"  #footerbg.png"
 # page-img: "/img/light-grey-terrazzo/light-grey-terrazzo.png"
 
 # --- Footer options --- #
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "pasegawade.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://github.com/papasega/pasegawade"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
