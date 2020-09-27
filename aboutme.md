@@ -19,7 +19,7 @@ Concernant mon parcours j'ai eu mon BAC au lycée Seydina Limamou Laye, puis une
 
 ### À Propos
 
- -[Ma page FaceBook ](https://fb.me/MathsFacilesWadePs).w
+ -[Ma page FaceBook ](https://fb.me/MathsFacilesWadePs).
  -[Mon Instagram](https://instagram.com/maths_psw/)
  -[Site Web](triangletude.jimdo.com)
  -[Twitter](https://twitter.com/papasegaw)
