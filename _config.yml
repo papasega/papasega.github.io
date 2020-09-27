@@ -25,11 +25,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo_psw.jpg"
+avatar: "/img/logo_psw.PNG"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/logopsw.jpn"
 
 # --- Background colour/image options --- #
 
@@ -49,7 +49,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "/img/chou_brocolis.png"  #footerbg.png"
+footer-img: "/img/chou_brocolis.PNG"  #footerbg.png"
 # page-img: "/img/light-grey-terrazzo/light-grey-terrazzo.png"
 
 # --- Footer options --- #
@@ -74,7 +74,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: maths_psw
+  instagram: "https://intagram.com/maths_psw"
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
