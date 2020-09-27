@@ -15,9 +15,10 @@ Concernant mon parcours j'ai eu mon BAC au lycée Seydina Limamou Laye, puis une
 - les maths
 - l'intelligence artificielle
 - La smart agriculture.
+                                                                                                                                                    
+                                                                                                                                                          PSW
 
-
-### À Propos
+###### Liens utils 
 
  -[Ma page FaceBook ](https://fb.me/MathsFacilesWadePs).
  -[Mon Instagram](https://instagram.com/maths_psw/)
