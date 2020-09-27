@@ -19,4 +19,4 @@ J'ai réalisé un projet d'un système de reconnaissance automatique de la parol
 ### À Propos
 
  -[Ma page FaceBook ](https://fb.me/MathsFacilesWadePs).
- -[Mon Instagram](https://instagram/maths_psw)
+ -[Mon Instagram](https://instagram/maths_psw/)
