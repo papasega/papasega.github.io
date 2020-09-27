@@ -1,21 +1,22 @@
 ---
 layout: page
-title: Hey, moi c'est Elias !
-bigimg: img/me-1-darker.png
-subtitle: Bienvenue dans mon monde. Ici, on écrit des Hiéroglyphes pour batir des Piramides
+title: Hello welcome sur mon blog perso pour l'IA et les Maths ! PSW
+#bigimg: img/me-1-darker.png
+subtitle: Nous allons découvir en quoi les maths et l'IA sont étroitement liés. 
 googlefonts: ["Montserrat"]
 ---
-J'aimerais dans cette section vous parler un peu de moi et des raisons pour lesquelles j'ai décidé de tenir ce blog. 
+À propos de moi, parlons un peu de moi et de mon parcours ! 
+Mon nom est Papa Séga WADE, je suis en Ph.D en Reconnaissance Automatique de la parole, en particulier aux langues d'Afrique Subraharienne. 
+J'ai réalisé un projet d'un système de reconnaissance automatique de la parole sur le Wolof une langue parlé par plus de 90% des Sénégal. 
 
-Mais à vrai dire je ne sais pas par où commencer :confused:. D'ailleurs je ne sais meme pas comment j'en suis arrivé à enfin terminer ce blog :satisfied:
 
-Bon bref, bienvenu dans ce blog dédié à deux domaines qui me passionne beaucoup:
+ En somme, bienvenu dans ce blog dédié à deux domaines qui me passionne beaucoup:
+- les maths
 - l'intelligence artificielle
-- L'art génératif
+- La smart agriculture. 
 
 
-What else do you need?
+### À Propos
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ -[Ma page FaceBook ](https://fb.me/MathsFacilesWadePs).
+ -[Mon Instagram](https://instagram/maths_psw)
