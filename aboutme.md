@@ -11,7 +11,7 @@ J'ai réalisé un projet d'un système de reconnaissance automatique de la parol
 
 Concernant mon parcours j'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'univeristé Assance Seck de Ziguichor et afin diplômé de l'École Polytechnique de Paris communément appelée l'X. 
 
- En somme, bienvenue dans ce blog dédié à trois domaines qui me passionne beaucoup:
+ En somme, bienvenue dans ce blog dédié à trois domaines qui me passionnent beaucoup:
 - les maths
 - l'intelligence artificielle
 - La smart agriculture.
