@@ -16,7 +16,8 @@ Concernant mon parcours j'ai eu mon BAC au lycée Seydina Limamou Laye, puis une
 - l'intelligence artificielle
 - La smart agriculture.
                                                                                                                                                     
-                                                                                                                                                          PSW
+                                                                                                                                                      
+                                                                                                                                                    PSW
 
 ###### Liens utils 
 
