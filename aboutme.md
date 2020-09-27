@@ -14,8 +14,7 @@ Concernant mon parcours j'ai eu mon BAC au lycée Seydina Limamou Laye, puis une
  En somme, bienvenue dans ce blog dédié à trois domaines qui me passionnent beaucoup:
 - les maths
 - l'intelligence artificielle
-- La smart agriculture.
-                                                                                                                                                                                                                                                 
+- La smart agriculture.                                                                                                                                                                                   
                                                                                                                                                     PSW
 
 ###### Liens utils 
