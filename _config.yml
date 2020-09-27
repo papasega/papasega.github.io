@@ -29,7 +29,7 @@ avatar: "/img/logo_psw.PNG"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/avatar_psw.jpg"
+#title-img: "/img/avatar_psw.jpg"
 
 # --- Background colour/image options --- #
 
@@ -49,7 +49,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "/img/logopsw.jpg"  #footerbg.png"
+footer-img: "/img/avatar_psw.jpg"  #footerbg.png"
 # page-img: "/img/light-grey-terrazzo/light-grey-terrazzo.png"
 
 # --- Footer options --- #
