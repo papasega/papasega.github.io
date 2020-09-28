@@ -11,7 +11,7 @@ description: Les Maths et IA en particulier en Reconnaissance Automatique de la 
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://github.com/papasega/psw_blog/"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/papasega/pasegawade"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://github.com/papasega/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
