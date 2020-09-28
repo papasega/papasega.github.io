@@ -17,7 +17,7 @@ J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'u
 - les maths
 - l'intelligence artificielle
 - La smart agriculture.   
-
+- Je dirais ... La science en mode -- AI--ML--DL--
                                                                                                                                 La mathématique et l'IA by: PSW
 
 #### Liens utils 
