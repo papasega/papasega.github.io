@@ -16,4 +16,4 @@ sidebar:
 ## Notations générales
 
 ### Définition 
-  |¤Vecteur:| On note 
+|¤Vecteur:| On note 
