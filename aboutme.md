@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello welcome sur mon blog perso pour l'IA et les Maths !
-bigimg: img/logo_psw.PNG
+bigimg: img/champion_boxe.jpg
 subtitle: Nous allons découvir en quoi la mathématique et l'IA sont étroitement liées. 
 googlefonts: ["Montserrat"]
 ---
