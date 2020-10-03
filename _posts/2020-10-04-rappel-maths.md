@@ -30,7 +30,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
    \begin{array}{ccc}
       x_1 \\
       x_2 \\
-      ... \\
+       \vdots \\
       x_n \\
    \end{array}
    \right ) " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R^{n}" title="\in \mathbb{R}^{n}" />
@@ -50,5 +50,4 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in \mat
       \vdots & & \vdots \\
       M_{m,1} & \cdots  & M_{m,n} \\
         \end{array}
-         \right )  " />
-               <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{m \time n}" title="\in \mathbb{R}^{m \time n}" />
+         \right )  " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{m \time n}" title="\in \mathbb{R}^{m \time n}" />
