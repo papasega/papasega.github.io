@@ -47,7 +47,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in \mat
    \right )  " title="M = \left (
    \begin{array}{cccc}
       M_{1,1}  & \cdots & M_{1,n} \\
-      \vdots & & \ddots & 0\\
+      \vdots & & \vdots \\
       M_{m,1} & \cdots  & M_{M,n} \\
    \end{array}
    \right )  " />
