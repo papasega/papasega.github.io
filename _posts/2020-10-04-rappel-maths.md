@@ -41,14 +41,14 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in \mat
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; M = \left (
    \begin{array}{cccc}
       M_{1,1}  & \cdots & M_{1,n} \\
-      \vdots & & \ddots & 0\\
-      M_{m,1} & \cdots  & M_{M,n} \\
+      \vdots & & \vdots \\
+      M_{m,1} & \cdots  & M_{m,n} \\
    \end{array}
    \right )  " title="M = \left (
    \begin{array}{cccc}
       M_{1,1}  & \cdots & M_{1,n} \\
       \vdots & & \vdots \\
-      M_{m,1} & \cdots  & M_{M,n} \\
+      M_{m,1} & \cdots  & M_{m,n} \\
    \end{array}
    \right )  " />
           <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R^{m \times n}}" title="\in \mathbb{R^{m \times n}}" />
