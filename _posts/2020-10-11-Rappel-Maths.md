@@ -36,7 +36,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
    \right ) " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R^{n}" title="\in \mathbb{R}^{n}" />
    
 #### Matrice
-On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\mathbb{R}^{m} \time \mathbb{R}^{n}" title=" M \in\mathbb{R}^{m} \time \mathbb{R}^{n}" /> une matrice à  <img src="https://latex.codecogs.com/svg.latex?\Large&space;m" title="m" /> lignes et  <img src="https://latex.codecogs.com/svg.latex?\Large&space; n" title="n" /> colonnes, où  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M_{i,j} \in \mathbb{R}" title="M_{i,j} \in \mathbb{R}" /> est l'entrée située à la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{ieme}" title="i^{ieme}" /> ligne et <img src="https://latex.codecogs.com/svg.latex?\Large&space; j^{ieme}" title="j^{ieme}" /> colonne :
+On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\mathbb{R}^{m} \times \mathbb{R}^{n}" title=" M \in\mathbb{R}^{m} \times \mathbb{R}^{n}" /> une matrice à  <img src="https://latex.codecogs.com/svg.latex?\Large&space;m" title="m" /> lignes et  <img src="https://latex.codecogs.com/svg.latex?\Large&space; n" title="n" /> colonnes, où  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M_{i,j} \in \mathbb{R}" title="M_{i,j} \in \mathbb{R}" /> est l'entrée située à la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{ieme}" title="i^{ieme}" /> ligne et <img src="https://latex.codecogs.com/svg.latex?\Large&space; j^{ieme}" title="j^{ieme}" /> colonne :
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; M = \left (
       \begin{array}{cccc}
@@ -50,4 +50,4 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\math
       \vdots & & \vdots \\
       M_{m,1} & \cdots  & M_{m,n} \\
         \end{array}
-         \right )  " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{m} \time \mathbb{R}^{n}" title="\in \mathbb{R}^{m} \time \mathbb{R}^{n}" />
+         \right )  " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{m} \times \mathbb{R}^{n}" title="\in \mathbb{R}^{m} \times \mathbb{R}^{n}" />
