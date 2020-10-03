@@ -18,4 +18,20 @@ sidebar:
 ### Définition 
 
 #### Vecteur 
-On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathbb{R}^{n} " title=" x\in\mathbb{R}^{n} " /> un vecteur à 
+On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathbb{R}^{n} " title=" x\in\mathbb{R}^{n} " /> un vecteur à n entrées, où <img src="https://latex.codecogs.com/svg.latex?\Large&space; x_i " title=" x_i " /> est la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{ème} " title=" i^{ieme} " /> entrée:
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
+   \begin{array}{ccc}
+      x_1 \\
+      x_2 \\
+      ... \\
+      x_n \\
+   \end{array}
+   \right ) " title=" \left (
+   \begin{array}{ccc}
+      x_1 \\
+      x_2 \\
+      ... \\
+      x_n \\
+   \end{array}
+   \right ) " />
+
