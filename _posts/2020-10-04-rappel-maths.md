@@ -2,7 +2,7 @@
 layout: post
 title: Quelques notions mathématiques  
 subtitle: Algébre Linéaire  
-bigimg: img/posts/CMAP_-_Centre_de_Mathématiques_Appliquées_de_l'Ecole_polytechnique.jpg
+bigimg: img/posts/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
 share-img: img/ML_intro.png
 tags: [IA, maths, algébre, PSW]
 comments: true
