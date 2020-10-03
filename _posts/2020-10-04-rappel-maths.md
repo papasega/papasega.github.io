@@ -16,4 +16,5 @@ sidebar:
 ## Notations générales
 
 ### Définition 
-|¤Vecteur:| On note 
+###### Vecteur 
+On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x \in \mathbb{R^n} " title=" x \in \mathbb{R^n " />   
