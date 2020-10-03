@@ -54,8 +54,8 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\math
        
  Remarque: le vecteur <img src="https://latex.codecogs.com/svg.latex?\Large&space; X " title=" X " /> défini ci-dessus peut être vu comme une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; n \times 1 " title=" n \times 1 " />, aussi appelé vecteur colonne. 
  
- ## Matrices particulières
- #### Matrice identité 
+## Matrices particulières
+#### Matrice identité 
  La matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; I \in \mathbb{R}^{n \times n}" title=" I \in \mathbb{R}^{n \times n} " /> est une matrice carrée n lignes et n colonnes. Tous les éléments de sa diagonale sont égaux à 1 et tous les autres éléments sont égaux à 0. 
  
  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  I = \begin{pmatrix}
@@ -73,17 +73,17 @@ Remarquons pour toute matrice <img src="https://latex.codecogs.com/svg.latex?\La
 #### Matrice diagonale
 Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&space; D \in \mathbb{R}^{n \times n}" title=" D \in \mathbb{R}^{n \times n} " /> est une matrice carrée dont les coefficients en dehors de la **diagonale** principale sont nuls. 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; \PARENS{\begin{matrix}
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; D = \begin{pmatrix}
     a & 0 & \dots & 0 \\
     0 & 1 & \dots & 0 \\
     \vdots & \vdots & \ddots & \vdots \\
     0 & 0 & \dots & 1
-  \end{matrix}}" title=" \PARENS{\begin{matrix}
+  \end{matrix}" title=" D= \begin{matrix}
     a & 0 & \dots & 0 \\
     0 & 1 & \dots & 0 \\
     \vdots & \vdots & \ddots & \vdots \\
     0 & 0 & \dots & 1
-  \end{matrix}} " />
+  \end{matrix} " />
 
 
 ## Opérations matricielles 
