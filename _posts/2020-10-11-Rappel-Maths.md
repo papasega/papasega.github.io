@@ -37,7 +37,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
    
 #### Matrice
 
-![image](https://drive.google.com/uc?export=1Bfh-Mb6Vij_JwKYOMHHN28zXevk133tF)
+![image](https://drive.google.com/uc?export=view&id=1Bfh-Mb6Vij_JwKYOMHHN28zXevk133tF)
 
 On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\mathbb{R}^{m} \times \mathbb{R}^{n}" title=" M \in\mathbb{R}^{m} \times \mathbb{R}^{n}" /> une matrice à  <img src="https://latex.codecogs.com/svg.latex?\Large&space;m" title="m" /> lignes et  <img src="https://latex.codecogs.com/svg.latex?\Large&space; n" title="n" /> colonnes, où  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M_{i,j} \in \mathbb{R}" title="M_{i,j} \in \mathbb{R}" /> est l'entrée située à la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{ieme}" title="i^{ieme}" /> ligne et <img src="https://latex.codecogs.com/svg.latex?\Large&space; j^{ieme}" title="j^{ieme}" /> colonne :
 
