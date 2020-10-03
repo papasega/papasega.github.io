@@ -5,7 +5,7 @@ bigimg: img/champion_boxe.jpg
 subtitle: Nous allons découvir en quoi la mathématique et l'IA sont étroitement liées. 
 googlefonts: ["Montserrat"]
 ---
-# Parcours 
+### Mon parcours 
 Parlons un peu de moi et de mon parcours ! 
 Mon nom est Papa Séga WADE, alias PSW, je suis en Ph.D en Reconnaissance Automatique de la parole, en particulier aux langues d'Afrique subsaharienne. 
 J'ai réalisé un projet d'un système de reconnaissance automatique de la parole sur le Wolof, une langue parlée par plus de 90% des sénégalais: ainsi du Speech-To-Text (STT) et du Text-To-Speech (TTS) pour un bot vocale.
@@ -20,10 +20,10 @@ J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'u
 - La smart agriculture.   
 - Je dirais ... La science en mode -- AI--ML--DL--
 
-# Mon CV 
+### Mon CV 
 Soon 
 
-## Mon passe temps 
+### Mon passe temps 
 Désolé mais des maths ;)
 
 Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de *la boxe*. 
@@ -50,7 +50,7 @@ Passionné de la boxe anglaise 🥊.
 
 * 🥈Vice champion île-de-France de la Savate boxe française 2017.
 
-##### *Pourquoi les maths ?*    
+#### *Pourquoi les maths ?*    
 
 Bref étudier la mathématique est un excellent choix pour celle ou celui qui a le goût des défis intellectuels, le sens de l'analyse et de l'abstraction. En vous inscrivant en mathématiques, vous entrez dans une filière qui développera vos potentialités intellectuelles, vous apportera la rigueur scientifique et vous ouvrira de nombreuses portes dans des professions stimulantes et variées. Nous vivons dans un monde de science et de haute technologie et une société basée sur l'information, cette société a besoin de mathématiciens.
 
