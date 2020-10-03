@@ -6,9 +6,6 @@ bigimg: img/posts/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
 share-img: img/ML_intro.png
 tags: [IA, maths, algébre, PSW]
 comments: true
-toc_sticky: true
-sidebar:
-    nav: sidebar-sample
 ---
 
 
