@@ -25,6 +25,6 @@ J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'u
 
  -[Ma page FaceBook ](https://fb.me/MathsFacilesWadePs).
  -[Mon Instagram](https://instagram.com/maths_psw/)
- -[Site Web](triangletude.jimdo.com)
+ -[Site Web](https://triangletude.jimdo.com)
  -[Twitter](https://twitter.com/papasegaw)
  -[YouTube:Maths_Psw](https://www.youtube.com/channel/UCHsqYloOtfIrah4vH08H3Sw)
