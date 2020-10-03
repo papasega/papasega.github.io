@@ -18,7 +18,7 @@ sidebar:
 ### Définition 
 
 #### Vecteur 
-On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathbb{R}^{n} " title=" x\in\mathbb{R}^{n} " /> un vecteur à n entrées, où <img src="https://latex.codecogs.com/svg.latex?\Large&space; x_i " title=" x_i " /> est la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{ème} " title=" i^{ieme} " /> entrée:
+On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathbb{R}^{n} " title=" x\in\mathbb{R}^{n} " /> un vecteur à n entrées, où <img src="https://latex.codecogs.com/svg.latex?\Large&space; x_i " title=" x_i "/> est la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{eme} " title=" i^{ieme} " /> :  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x_i " title=" x_i " /> = 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
    \begin{array}{ccc}
       x_1 \\
@@ -33,5 +33,5 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
       ... \\
       x_n \\
    \end{array}
-   \right ) " />
+   \right ) \in \mathbb{R^{n}}" /> 
 
