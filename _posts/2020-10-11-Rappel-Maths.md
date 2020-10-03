@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rappel  mathématique : Algébre lineaire 
+title: Rappel Mathématique -- Algébre lineaire 
 subtitle: Algébre Linéaire  
 bigimg: img/posts/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
 share-img: img/ML_intro.png
