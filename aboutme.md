@@ -32,8 +32,12 @@ Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFaci
 Je suis passioné de la boxe !
 ![image](https://drive.google.com/uc?export=view&id=1uNFK3aD_xr2mwwXc0TUIKyMXIEkafghh)
 
+
      Mon CV de la boxe 😄.
+     
+     
 Passionné de la boxe anglaise 🥊.
+
 
 * 🥇 Chappion de France en 2019 universitaire 2019 🎯🎯🎯🏹
 * 🥈 Vice champion de France universitaire 2018    🎯🎯🏹
