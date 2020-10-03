@@ -2,7 +2,7 @@
 layout: post
 title: Rappel Mathématique -- Algébre lineaire 
 subtitle: Algébre Linéaire  
-bigimg: img/posts/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
+bigimg: img/posts/1 1oE1nC3-7H1oz5WWe_gH6Q.jpeg
 share-img: img/ML_intro.png
 tags: [IA, maths, algébre, PSW]
 comments: true
