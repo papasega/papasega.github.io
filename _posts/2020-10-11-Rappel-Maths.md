@@ -16,7 +16,8 @@ comments: true
 
 
 
-## Vecteur 
+## 1. Vecteur 
+
 On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathbb{R}^{n} " title=" x\in\mathbb{R}^{n} " /> un vecteur à <img src="https://latex.codecogs.com/svg.latex?\Large&space; n " title=" n " />  entrées, où <img src="https://latex.codecogs.com/svg.latex?\Large&space; x_{i} \in \mathbb{R} " title=" x_{i} \in \mathbb{R} "/> est la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{eme} " title=" i^{ieme} " /> entrée :  
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; X " title=" X " /> = 
@@ -37,7 +38,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
    \right ) " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{n}" title=" \in \mathbb{R}^{n}" />
    
    
-## Matrice
+## 2. Matrice
 
 
 ![image](https://drive.google.com/uc?export=view&id=1Bfh-Mb6Vij_JwKYOMHHN28zXevk133tF)
@@ -60,9 +61,9 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\math
        
  Remarque: le vecteur <img src="https://latex.codecogs.com/svg.latex?\Large&space; X " title=" X " /> défini ci-dessus peut être vu comme une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; n \times 1 " title=" n \times 1 " />, aussi appelé vecteur colonne. 
  
-# Matrices particulières
+# 3. Matrices particulières
 
-## Matrice identité 
+## 3.1 Matrice identité 
 
  La matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; I \in \mathbb{R}^{n \times n}" title=" I \in \mathbb{R}^{n \times n} " /> est une matrice carrée n lignes et n colonnes. Tous les éléments de sa diagonale sont égaux à 1 et tous les autres éléments sont égaux à 0. 
  
@@ -78,7 +79,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\math
 
 Remarquons pour toute matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{n \times n}" title=" I \in \mathbb{R}^{n \times n} " />,  on a <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \times I" title=" A \times I " /> = <img src="https://latex.codecogs.com/svg.latex?\Large&space; I \times A" title=" I \times A " /> = <img src="https://latex.codecogs.com/svg.latex?\Large&space; A " title=" A " />. On peut le consider comme l'élément neutre de la multiplication. 
 
-## Matrice diagonale
+## 3.2 Matrice diagonale
 
 Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&space; D \in \mathbb{R}^{n \times n}" title=" D \in \mathbb{R}^{n \times n} " /> est une matrice carrée dont les coefficients en dehors de la **diagonale** principale sont nuls. 
 
@@ -95,16 +96,17 @@ Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&spac
   \end{matrix} " />
 
 
-## Opérations matricielles 
+## 3.3 Opérations matricielles 
 
-### Multiplication 
+### 3.3.1 Multiplication 
+
 
 #### Multiplication vecteur vecteur 
 
 On distingue des types de multiplication vecteur-vecteur: 
-   - **Produit scalaire**:  Le scalaire est différent de la multilication d'un vecteur par un scalaire puisque:
+   - **Produit scalaire**:  Le produit scalaire est différent de la multilication d'un vecteur par un scalaire puisque:
    
-      -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
+        -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
         
         - les opérandes de la multiplication d’un vecteur par un scalaire sont un vecteur et un nombre réel; le résultat de la multiplication d’un vecteur par un scalaire est un vecteur.
         
@@ -130,6 +132,7 @@ On distingue des types de multiplication vecteur-vecteur:
       x_my_1 & \cdots  & x_my_n \\
       \end{array}
     \right )   " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{m \times n} " title="\in \mathbb{R}^{m \times n} " />
+   
    
    
    
@@ -176,7 +179,7 @@ Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&sp
     \right ) =  \sum_{i=1}^{n}a_{c,i}b^{T}_{r,i}  \in \mathbb{R}^{n \times p} " />
 
 
-##### Exercices: 
+##### Exemples: 
 
 ![image](https://drive.google.com/uc?export=view&id=1vm3vRTynlSlqKo8Ysk_vBjx7oyIYrxBk)
 
@@ -184,4 +187,4 @@ Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&sp
 #### Autres opérations 
 
 
-          coming soooo
+          coming soooon
