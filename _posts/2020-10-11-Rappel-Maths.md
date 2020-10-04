@@ -145,7 +145,7 @@ Le produit de la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&s
       \vdots \\
      a^T_{r,m}x \\
    \end{array}
-   \right ) \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " title=" Ax = \left (
+   \right ) = \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " title=" Ax = \left (
    \begin{array}{ccc}
       a^T_{r,1}x \\
       a^T_{r,2}x \\
