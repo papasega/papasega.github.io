@@ -24,7 +24,7 @@ J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'u
 Soon 
 
 ### Mon passe temps 
-Ne fuyez pas désolé, mais des maths 😄 aussi de la boxe 🥊. 
+Ne fuyez pas please, mais c'est de la mathématique 😄 aussi de la boxe 🥊. 
 
 Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de **la boxe**. 
 
