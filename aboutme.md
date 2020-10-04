@@ -82,7 +82,7 @@ La géométrie est la connaissance de ce qui est toujours, par suite, elle attir
 ![image](https://drive.google.com/uc?export=view&id=1ARURCOym34oQBdulr0GQElFhxEcl1e1i)
 
 
-                                         La mathématique et l'IA by: PSW
+                             La mathématique et l'IA by: PSW
 
 
 | | | |
