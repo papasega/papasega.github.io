@@ -26,7 +26,7 @@ Soon
 ### Mon passe temps 
 Désolé mais des maths ;)
 
-Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de *la boxe*. 
+Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de **la boxe**. 
 
 #### La Boxe anglaise 
 Je suis passioné de la boxe !
@@ -36,8 +36,9 @@ Je suis passioné de la boxe !
      Mon CV de la boxe 😄.
      
      
-Passionné de la boxe anglaise 🥊.
-
+La belle boxe: la boxe anglaise 🥊, l'école cubaine toucher sans pour autant se faire toucher.
+**La boxe, une question d'esquives** 
+La boxe consiste avant tout à placer ses coups de manière à atteindre l’adversaire sans être touché en retour. En effet, remporter un assaut (combat de boxe universitaire) c’est bien, mais être victorieux sans aucune blessure ni se faire toucher c’est mieux. En définitive, tout cela est possible grâce à l’art de l’esquive. C’est cet aspect du noble art qui fait de la boxe: la boxing science! Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe de à mon égard.
 
 * 🥇 Chappion de France en 2019 universitaire 2019 🎯🎯🎯🏹
 * 🥈 Vice champion de France universitaire 2018    🎯🎯🏹
