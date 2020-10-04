@@ -104,7 +104,7 @@ Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&spac
 On distingue des types de multiplication vecteur-vecteur: 
    - **Produit scalaire**:  Le scalaire est différent de la multilication d'un vecteur par un scalaire puisque:
    
-        -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
+      -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
         
         - les opérandes de la multiplication d’un vecteur par un scalaire sont un vecteur et un nombre réel; le résultat de la multiplication d’un vecteur par un scalaire est un vecteur.
         
@@ -114,5 +114,24 @@ On distingue des types de multiplication vecteur-vecteur:
    
    <img src="https://latex.codecogs.com/svg.latex?\Large&space; x^{T}y = \sum_{i=1}^{n}x_iy_i  \in \mathbb{R}" title=" x^{T}y = \sum_{i=1}^{n}x_iy_i  \in \mathbb{R} " />
         
-    
-     coming soooo
+   - **Produit dyadique** : Le produit dyadique de deux vecteurs, dont chacun ayant la même dimension, est le **produit tensoriel** de ces vecteurs, lequel est un tenseur d'ordre deux et de rang un. Ce produit est souvent utilisé en **mécanique des milieux continus**
+   Pour <img src="https://latex.codecogs.com/svg.latex?\Large&space; x \in \mathbb{R}^{m},  y \in \mathbb{R}^{n} " title="x \in \mathbb{R}^{m},  y \in \mathbb{R}^{n} " /> on a : 
+   
+   <img src="https://latex.codecogs.com/svg.latex?\Large&space; xy^{T} = \left (
+      \begin{array}{cccc}
+      x_1y_1  & \cdots & x_1y_n \\
+      \vdots & & \vdots \\
+      x_my_1 & \cdots  & x_my_n \\
+      \end{array}
+    \right )  " title="xy^{T} = \left (
+      \begin{array}{cccc}
+      x_1y_1  & \cdots & x_1y_n \\
+      \vdots & & \vdots \\
+      x_my_1 & \cdots  & x_my_n \\
+      \end{array}
+    \right )   " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{m \times n} " title="\in \mathbb{R}^{m \times n} " />
+   
+   
+   
+#### Matrice- vecteur 
+          coming soooo
