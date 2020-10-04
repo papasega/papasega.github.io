@@ -8,10 +8,10 @@ googlefonts: ["Montserrat"]
 ### Mon parcours 
 Parlons un peu de moi et de mon parcours ! 
 Mon nom est Papa Séga WADE, alias PSW, je suis en Ph.D en Reconnaissance Automatique de la parole, en particulier aux langues d'Afrique subsaharienne. 
-J'ai réalisé un projet d'un système de reconnaissance automatique de la parole sur le Wolof, une langue parlée par plus de 90% des sénégalais: ainsi du Speech-To-Text (STT) et du Text-To-Speech (TTS) pour un bot vocale.
+J'ai réalisé un projet d'un système de reconnaissance automatique de la parole sur le Wolof, une langue parlée par plus de 90% des sénégalais: ainsi du Speech-To-Text (STT) et du Text-To-Speech (TTS) pour un bot vocal.
 
 Concernant mon parcours, une longue histoire! [....] 
-J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'univeristé Assance Seck de Ziguichor et enfin titulaire d'un double diplôme de [l'École Polytechnique de Paris](https://www.polytechnique.edu/), communément appelée l'X, et de [Telecom Paris](https://www.telecom-paris.fr/). 
+J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'univeristé [Assance Seck de Ziguichor](http://www.univ-zig.sn/index.php?option=com_content&view=article&id=96:departement-de-mathematiques&catid=32:univzig-elements) et enfin titulaire d'un double diplôme de [l'École Polytechnique de Paris](https://www.polytechnique.edu/), communément appelée l'X, et de [Telecom Paris](https://www.telecom-paris.fr/). 
 
 
  En somme, bienvenue dans ce blog dédié à trois domaines qui me passionnent beaucoup:
@@ -24,7 +24,7 @@ J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'u
 Soon 
 
 ### Mon passe temps 
-Désolé mais des maths ;)
+Désolé, mais des maths 😄.
 
 Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de **la boxe**. 
 
@@ -36,9 +36,12 @@ Je suis passioné de la boxe !
      Mon CV de la boxe 😄.
      
      
-La belle boxe: la boxe anglaise 🥊, l'école cubaine toucher sans pour autant se faire toucher.
+La belle boxe: la boxe anglaise 🥊, l'école cubaine "toucher sans pour autant se faire toucher".
+
 **La boxe, une question d'esquives** 
-La boxe consiste avant tout à placer ses coups de manière à atteindre l’adversaire sans être touché en retour. En effet, remporter un assaut (combat de boxe universitaire) c’est bien, mais être victorieux sans aucune blessure ni se faire toucher c’est mieux. En définitive, tout cela est possible grâce à l’art de l’esquive. C’est cet aspect du noble art qui fait de la boxe: la boxing science! Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe de à mon égard.
+
+La boxe consiste avant tout à placer ses coups de manière à atteindre l’adversaire sans être touché en retour. En effet, remporter un assaut (combat de boxe universitaire) c’est bien, mais être victorieux sans aucune blessure ni se faire toucher c’est mieux. En définitive, tout cela est possible grâce à l’art de l’esquive. C’est cet aspect du noble art qui fait de la boxe: la boxing science! 
+Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe à mon égard.
 
 * 🥇 Chappion de France en 2019 universitaire 2019 🎯🎯🎯🏹
 * 🥈 Vice champion de France universitaire 2018    🎯🎯🏹
@@ -51,6 +54,8 @@ La boxe consiste avant tout à placer ses coups de manière à atteindre l’adv
 
 * 🥈Vice champion île-de-France de la Savate boxe française 2017.
 
+
+
 #### *Pourquoi les maths ?*    
 
 Bref étudier la mathématique est un excellent choix pour celle ou celui qui a le goût des défis intellectuels, le sens de l'analyse et de l'abstraction. En vous inscrivant en mathématiques, vous entrez dans une filière qui développera vos potentialités intellectuelles, vous apportera la rigueur scientifique et vous ouvrira de nombreuses portes dans des professions stimulantes et variées. Nous vivons dans un monde de science et de haute technologie et une société basée sur l'information, cette société a besoin de mathématiciens.
@@ -62,16 +67,21 @@ Si les mathématiques sont résolument une science tournée vers l'avenir, elle 
 La géométrie est la connaissance de ce qui est toujours, par suite, elle attire l'âme vers la vérité, disait Platon, et Feynman ajoute que l'on ne peut  expliquer le monde, faire ressentir sa beauté à ceux qui n'ont aucune connaissance profonde des mathématiques.
 
 #### Quelques illustrations
-                                                                                                                          La mathématique et l'IA by: PSW
+                                                                                                                       
                                                                                                                           
 ![image](https://drive.google.com/uc?export=view&id=1SAdoMUW3tCDI7XQkvO_rPqaNQJimLEc9)
 
-![image](https://drive.google.com/uc?export=view&id=1GiemWfUFsrdqDQEKBj1zm6cA28JDLeNw)
 
 ![image](https://drive.google.com/uc?export=view&id=1I489rjz9dPM8avCujmLfdz8KQOk8hVmf)
 
+
+![image](https://drive.google.com/uc?export=view&id=1GiemWfUFsrdqDQEKBj1zm6cA28JDLeNw)
+
+
 ![image](https://drive.google.com/uc?export=view&id=1ARURCOym34oQBdulr0GQElFhxEcl1e1i)
 
+
+                                                         La mathématique et l'IA by: PSW
 
 
 #### Liens utils 
