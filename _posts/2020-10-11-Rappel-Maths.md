@@ -176,4 +176,8 @@ Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&sp
     \right ) =  \sum_{i=1}^{n}a_{c,i}b^{T}_{r,i}  \in \mathbb{R}^{n \times p} " />
 
 
+
+#### Autres opérations 
+
+
           coming soooo
