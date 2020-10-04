@@ -104,9 +104,11 @@ Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&spac
 On distingue des types de multiplication vecteur-vecteur: 
    - **Produit scalaire**:  Le scalaire est différent de la multilication d'un vecteur par un scalaire puisque:
    
-         -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
-         - les opérandes de la multiplication d’un vecteur par un scalaire sont un vecteur et un nombre réel; le résultat de la multiplication d’un vecteur par un scalaire est un vecteur.
-         - L’expression « multiplication vectorielle », qui devrait référer à une opération interne dans l’ensemble des vecteurs et qui aurait pour résultat un vecteur, est inappropriée, car le produit scalaire de deux vecteurs est un nombre réel et non un vecteur, alors que la multiplication d’un vecteur par un scalaire est une opération externe.
+        -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
+        
+        - les opérandes de la multiplication d’un vecteur par un scalaire sont un vecteur et un nombre réel; le résultat de la multiplication d’un vecteur par un scalaire est un vecteur.
+        
+        - L’expression « multiplication vectorielle », qui devrait référer à une opération interne dans l’ensemble des vecteurs et qui aurait pour résultat un vecteur, est inappropriée, car le produit scalaire de deux vecteurs est un nombre réel et non un vecteur, alors que la multiplication d’un vecteur par un scalaire est une opération externe.
 
    Pour <img src="https://latex.codecogs.com/svg.latex?\Large&space; x , y \in \mathbb{R}^{n} " title=" x, y \in \mathbb{R}^{n} " />, on a : 
    
