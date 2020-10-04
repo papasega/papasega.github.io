@@ -24,7 +24,7 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
    \begin{array}{ccc}
       x_1 \\
       x_2 \\
-      ... \\
+      \vdots \\
       x_n \\
    \end{array}
    \right ) " title=" \left (
@@ -134,4 +134,25 @@ On distingue des types de multiplication vecteur-vecteur:
    
    
 #### Matrice- vecteur 
+
+Le produit de la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n} " title="A \in \mathbb{R}^{m \times n} " /> et du vecteur  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x \in \mathbb{R}^{n} " title="A \in \mathbb{R}^{n} " /> est un vecteur de taille de <img src="https://latex.codecogs.com/svg.latex?\Large&space; \mathbb{R}^{m} " title=" \mathbb{R}^{n} " />, tel que: 
+
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; Ax = \left (
+   \begin{array}{ccc}
+      a^T_{r,1}x \\
+      a^T_{r,2}x \\
+      \vdots \\
+     a^T_{r,m}x \\
+   \end{array}
+   \right ) \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " title=" Ax = \left (
+   \begin{array}{ccc}
+      a^T_{r,1}x \\
+      a^T_{r,2}x \\
+      \vdots \\
+     a^T_{r,m}x \\
+   \end{array}
+   \right )  = \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " /> 
+
+
           coming soooo
