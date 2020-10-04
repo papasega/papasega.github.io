@@ -24,7 +24,7 @@ J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'u
 Soon 
 
 ### Mon passe temps 
-Ne fuyez pas please, mais c'est de la mathématique 😄 aussi de la boxe 🥊. 
+Ne fuyez pas please, mais c'est de la mathématique 😄 et de la boxe 🥊. 
 
 Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de **la boxe**. 
 
@@ -36,16 +36,19 @@ Je suis passioné de la boxe !
      Mon CV de la boxe 😄.
      
      
-La belle boxe: la boxe anglaise 🥊, l'école cubaine "toucher sans pour autant se faire toucher".
+La belle boxe 🥊 de l'école cubaine: "toucher sans pour autant se faire toucher".
 
-**La boxe, une question d'esquives** 
+**Pour moi la boxe c'est une question d'esquives !** 
 
 <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1MzgUihp1K7rW5j2oVjGchibP7uZ9tDSS">
 
 La boxe consiste avant tout à placer ses coups de manière à atteindre l’adversaire sans être touché en retour. En effet, remporter un assaut (combat de boxe universitaire) c’est bien, mais être victorieux sans aucune blessure ni se faire toucher c’est mieux. En définitive, tout cela est possible grâce à l’art de l’esquive. C’est cet aspect du noble art qui fait de la boxe: la boxing science! 
+
+
 Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe à mon égard.
 
-* 🥇 Chappion de France en 2019 universitaire 2019 🎯🎯🎯🏹
+
+* 🥇 Chappion de France universitaire en 2019 🎯🎯🎯🏹
 * 🥈 Vice champion de France universitaire 2018    🎯🎯🏹
 
 * 🥇🥇 Double champion île de France universitaire 2018 & 2019 🏹🎯
@@ -58,7 +61,7 @@ Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souley
 
 
 
-#### *Pourquoi les maths ?*    
+## Pourquoi les maths ?    
 
 Bref étudier la mathématique est un excellent choix pour celle ou celui qui a le goût des défis intellectuels, le sens de l'analyse et de l'abstraction. En vous inscrivant en mathématiques, vous entrez dans une filière qui développera vos potentialités intellectuelles, vous apportera la rigueur scientifique et vous ouvrira de nombreuses portes dans des professions stimulantes et variées. Nous vivons dans un monde de science et de haute technologie et une société basée sur l'information, cette société a besoin de mathématiciens.
 
@@ -84,7 +87,7 @@ La géométrie est la connaissance de ce qui est toujours, par suite, elle attir
 ![image](https://drive.google.com/uc?export=view&id=1ARURCOym34oQBdulr0GQElFhxEcl1e1i)
 
 
-                             La mathématique et l'IA by: PSW
+                               La mathématique et l'IA by: PSW
 
 
 | | | |
