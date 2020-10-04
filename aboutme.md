@@ -40,7 +40,7 @@ La belle boxe: la boxe anglaise 🥊, l'école cubaine "toucher sans pour autant
 
 **La boxe, une question d'esquives** 
 
-<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1MzgUihp1K7rW5j2oVjGchibP7uZ9tDSS">
+<img width="200" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1MzgUihp1K7rW5j2oVjGchibP7uZ9tDSS">
 
 La boxe consiste avant tout à placer ses coups de manière à atteindre l’adversaire sans être touché en retour. En effet, remporter un assaut (combat de boxe universitaire) c’est bien, mais être victorieux sans aucune blessure ni se faire toucher c’est mieux. En définitive, tout cela est possible grâce à l’art de l’esquive. C’est cet aspect du noble art qui fait de la boxe: la boxing science! 
 Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe à mon égard.
