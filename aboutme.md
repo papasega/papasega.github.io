@@ -74,6 +74,7 @@ La géométrie est la connaissance de ce qui est toujours, par suite, elle attir
 
 ![image](https://drive.google.com/uc?export=view&id=1I489rjz9dPM8avCujmLfdz8KQOk8hVmf)
 
+![image](https://drive.google.com/uc?export=view&id=1IX3GNIsXiFL6Mxt7GUIjPjUmnb-wM6A_)
 
 ![image](https://drive.google.com/uc?export=view&id=1GiemWfUFsrdqDQEKBj1zm6cA28JDLeNw)
 
@@ -84,13 +85,11 @@ La géométrie est la connaissance de ce qui est toujours, par suite, elle attir
                                                          La mathématique et l'IA by: PSW
 
 
-
-
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1wCTN3nKBFJAKMiHFrLlymjP9YVkWVszL">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1IX3GNIsXiFL6Mxt7GUIjPjUmnb-wM6A_">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1loOZMUlofFMgnUCooOGo8h9B0lVAiabI">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GiemWfUFsrdqDQEKBj1zm6cA28JDLeNw">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1XNRwI2Fv-h_QNAf36aY3VvocQndbQkYW">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1MzgUihp1K7rW5j2oVjGchibP7uZ9tDSS">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1671ZY5uJKbqF68sCVDAoJfjgVqrO0AwM">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GLscJNOa40mQ-LrLncm9Gr16q7p2IyFT">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1sEATjhywJ4iLmYc2PpKFBLrTfZ96Wd3u">|
 
 
 
