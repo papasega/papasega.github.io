@@ -10,12 +10,13 @@ comments: true
 
 
 
-## Notations générales
+# Notations générales
 
-### Définitions 
+# Définitions 
 
 
-#### Vecteur 
+
+## Vecteur 
 On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathbb{R}^{n} " title=" x\in\mathbb{R}^{n} " /> un vecteur à <img src="https://latex.codecogs.com/svg.latex?\Large&space; n " title=" n " />  entrées, où <img src="https://latex.codecogs.com/svg.latex?\Large&space; x_{i} \in \mathbb{R} " title=" x_{i} \in \mathbb{R} "/> est la <img src="https://latex.codecogs.com/svg.latex?\Large&space; i^{eme} " title=" i^{ieme} " /> entrée :  
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; X " title=" X " /> = 
@@ -35,7 +36,9 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; x\in\mathb
    \end{array}
    \right ) " /> <img src="https://latex.codecogs.com/svg.latex?\Large&space; \in \mathbb{R}^{n}" title=" \in \mathbb{R}^{n}" />
    
-#### Matrice
+   
+## Matrice
+
 
 ![image](https://drive.google.com/uc?export=view&id=1Bfh-Mb6Vij_JwKYOMHHN28zXevk133tF)
 
@@ -57,8 +60,10 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\math
        
  Remarque: le vecteur <img src="https://latex.codecogs.com/svg.latex?\Large&space; X " title=" X " /> défini ci-dessus peut être vu comme une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; n \times 1 " title=" n \times 1 " />, aussi appelé vecteur colonne. 
  
-## Matrices particulières
-#### Matrice identité 
+# Matrices particulières
+
+## Matrice identité 
+
  La matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; I \in \mathbb{R}^{n \times n}" title=" I \in \mathbb{R}^{n \times n} " /> est une matrice carrée n lignes et n colonnes. Tous les éléments de sa diagonale sont égaux à 1 et tous les autres éléments sont égaux à 0. 
  
  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  I = \begin{pmatrix}
@@ -73,7 +78,8 @@ On note  <img src="https://latex.codecogs.com/svg.latex?\Large&space; M \in\math
 
 Remarquons pour toute matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{n \times n}" title=" I \in \mathbb{R}^{n \times n} " />,  on a <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \times I" title=" A \times I " /> = <img src="https://latex.codecogs.com/svg.latex?\Large&space; I \times A" title=" I \times A " /> = <img src="https://latex.codecogs.com/svg.latex?\Large&space; A " title=" A " />. On peut le consider comme l'élément neutre de la multiplication. 
 
-#### Matrice diagonale
+## Matrice diagonale
+
 Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&space; D \in \mathbb{R}^{n \times n}" title=" D \in \mathbb{R}^{n \times n} " /> est une matrice carrée dont les coefficients en dehors de la **diagonale** principale sont nuls. 
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; D = \begin{pmatrix}
@@ -91,4 +97,18 @@ Une matrice diagonale <img src="https://latex.codecogs.com/svg.latex?\Large&spac
 
 ## Opérations matricielles 
 
+### Multiplication 
+  #### Multiplication vecteur vecteur 
+
+On distingue des types de multiplication vecteur-vecteur: 
+   - **Produit scalaire**:  Le scalaire est différent de la multilication d'un vecteur par un scalaire puisque:
+         -le produit scalire de deux vecteurs est un nombre réel; les deux opérandes d’un produit scalaire sont des vecteurs;
+         - les opérandes de la multiplication d’un vecteur par un scalaire sont un vecteur et un nombre réel; le résultat de la multiplication d’un vecteur par un scalaire est un vecteur.
+         - L’expression « multiplication vectorielle », qui devrait référer à une opération interne dans l’ensemble des vecteurs et qui aurait pour résultat un vecteur, est inappropriée, car le produit scalaire de deux vecteurs est un nombre réel et non un vecteur, alors que la multiplication d’un vecteur par un scalaire est une opération externe.
+
+   Pour <img src="https://latex.codecogs.com/svg.latex?\Large&space; x, y \in \mathbb{R}^{n}} " title=" x, y \in \mathbb{R}^{n}} " />, on a : 
+   
+   <img src="https://latex.codecogs.com/svg.latex?\Large&space; x^{T}y = \sum_{i=1}^{n}x_iy_i  \in \mathbb{R}" title=" x^{T}y = \sum_{i=1}^{n}x_iy_i  \in \mathbb{R} " />
+        
+    
      coming soooo
