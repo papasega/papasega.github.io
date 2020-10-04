@@ -152,7 +152,28 @@ Le produit de la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&s
       \vdots \\
      a^T_{r,m}x \\
    \end{array}
-   \right )  = \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " /> 
+   \right )  = \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " /> où les
+   <img src="https://latex.codecogs.com/svg.latex?\Large&space; a^{T}_{r,i}  " title="a^{T}_{r,i} "/> sont les vecteurs-ligne et <img src="https://latex.codecogs.com/svg.latex?\Large&space; a_{c,i}  " title="a_{c,i} "/> sont les vecteurs-colonne de <img src="https://latex.codecogs.com/svg.latex?\Large&space; A et x_i  " title=" A et x_i "/> sont les entrées de x. 
+   
+   
+   
+#### Matrice-matrice.
+
+Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  " title="A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  "/> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; \mathbb{R}^{n \times p}  " title="\mathbb{R}^{n \times p} "/> tel que :
+   
+   <img src="https://latex.codecogs.com/svg.latex?\Large&space; AB = \left (
+      \begin{array}{cccc}
+      a^T_{r,1}b_{c,1}  & \cdots & a^T_{r,1}b_{c,p} \\
+      \vdots & & \vdots \\
+      a^T_{r,m}b_{c,1} & \cdots  & a^T_{r,m}b_{c,p} \\
+      \end{array}
+    \right ) = \sum_{i=1}^{n}a_{c,i}b^{T}_{r,i}  \in \mathbb{R}^{n \times p} " title=" AB = \left (
+      \begin{array}{cccc}
+      a^T_{r,1}b_{c,1}  & \cdots & a^T_{r,1}b_{c,p} \\
+      \vdots & & \vdots \\
+      a^T_{r,m}b_{c,1} & \cdots  & a^T_{r,m}b_{c,p} \\
+      \end{array}
+    \right ) =  \sum_{i=1}^{n}a_{c,i}b^{T}_{r,i}  \in \mathbb{R}^{n \times p} " />
 
 
           coming soooo
