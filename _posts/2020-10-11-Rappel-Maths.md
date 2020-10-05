@@ -203,7 +203,61 @@ produit(B, A)
 [[9, 33], [9, 43]]
 ````
 
-#### Autres opérations 
+## Autres opérations 
+
+### Transposé
+La transposée d'une matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n} " title="A \in \mathbb{R}^{m \times n} " /> est notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; A^T  " title="A^T  " /> et est dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{n \times m} " title=" \mathbb{R}^{n \times m} " /> tel que: 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \forall i, j  A^{T}_{i,j} = A_{j,i} " title="\forall i, j  A^{T}_{i,j} = A_{j,i} " />.
+
+
+**Remarque** : pour des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A, B  " title=" A, B  " /> on a <img src="https://latex.codecogs.com/svg.latex?\Large&space; (AB)^T " title="B^TA^T " />. 
+
+
+### Inverse:
+L'inverse d'une matrice carrée inversible <img src="https://latex.codecogs.com/svg.latex?\Large&space; A" title="A " /> est notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; A^{-1} " title="A^{-1} " /> et est l'unique matrice telle que: 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; AA^{-1} = A^{-1}A = I  " title=" AA^{-1} = A^{-1}A = I  " />.
+
+
+```python 
+import numpy as np 
+# On définit la matrice A
+A = np.array([[1,2,3],[4,5,6],[7,8,9]])
+# On affiche la matrice A
+print(A)
+# La transposer de la matrice de A
+tranposer (A) = A.T$
+#Avec la fonction transpose de numpy
+np.transpose(A)
+
+```
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \begin{matrix}
+1 & 2 & 3\\
+4 & 5 & 6 \\
+7 & 8 & 9 
+\end{matrix}  " \begin{matrix}
+1 & 2 & 3\\
+4 & 5 & 6 \\
+7 & 8 & 9 
+\end{matrix}  " />.
+
+
+### Trace
+
+La trace d'une matrice carrée <img src="https://latex.codecogs.com/svg.latex?\Large&space; A  " title=" A " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; tr(A) " title=" tr(A)  " />, est la somme de ses entrées diagonales: 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; tr(A) = \sum_{i=1}^{n}A_{i,i}  " title=" tr(A) = \sum_{i=1}^{n}A_{i,i}  " />.
+
+Remarque:  pour toutes matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A, B  " title=" A, B " /> on a <img src="https://latex.codecogs.com/svg.latex?\Large&space; tr(A^T) = tr(A)  " title=" tr(A^T) = tr(A) " /> et <img src="https://latex.codecogs.com/svg.latex?\Large&space; tr(A) = \sum_{i=1}^{n}A_{i,i}  " title=" tr(A) = \sum_{i=1}^{n}A_{i,i}  " />. 
+
+
+# Analyse matricielle
+
+### Gradient
+Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f une fonction définie \mathbb{R}^{ m \times n}  " title=" f une fonction définie \mathbb{R}^{ m \times n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " />. Le gradient de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> à  la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A  " title=" A " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; m \times n " title=" m \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{A} f(A)  " title=" \nabla_{A} f(A) " /> tel que: 
+
 
 
           coming soooon
