@@ -315,13 +315,7 @@ plt.style.use(['ggplot'])
 
 ## Création de données 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; 
-\begin{equation} \theta_0= 4 \end{equation} 
-
-\begin{equation} \theta_1= 3 \end{equation}   " title=" 
-\begin{equation} \theta_0= 4 \end{equation} 
-
-\begin{equation} \theta_1= 3 \end{equation}   " />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta_0 = 4  \  \theta_1 = 3  " title=" \theta_0 = 4  \  \theta_1 = 3 " /> 
  
 ```python 
 X = 2 * np.random.rand(100,1)
