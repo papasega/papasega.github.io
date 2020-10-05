@@ -237,11 +237,13 @@ np.transpose(A)
 1 & 2 & 3\\
 4 & 5 & 6 \\
 7 & 8 & 9 
-\end{matrix}  " \begin{matrix}
+\end{matrix}  " title=" \begin{matrix}
 1 & 2 & 3\\
 4 & 5 & 6 \\
 7 & 8 & 9 
-\end{matrix}  " />.
+\end{matrix}  " />
+
+
 
 
 ### Trace
@@ -256,7 +258,7 @@ Remarque:  pour toutes matrices <img src="https://latex.codecogs.com/svg.latex?\
 # Analyse matricielle
 
 ### Gradient
-Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f une fonction définie \mathbb{R}^{ m \times n}  " title=" f une fonction définie \mathbb{R}^{ m \times n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " />. Le gradient de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> à  la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A  " title=" A " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; m \times n " title=" m \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{A} f(A)  " title=" \nabla_{A} f(A) " /> tel que: 
+Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f  " /> une fonction définie  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{ m \times n}  " title=" \mathbb{R}^{ m \times n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " />. Le gradient de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> à  la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A  " title=" A " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; m \times n " title=" m \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{A} f(A)  " title=" \nabla_{A} f(A) " /> tel que: 
 
 
 
