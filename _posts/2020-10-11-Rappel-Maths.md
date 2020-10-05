@@ -276,6 +276,11 @@ Remarque:  pour toutes matrices <img src="https://latex.codecogs.com/svg.latex?\
 ### Gradient
 Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f  " /> une fonction définie  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{ m \times n}  " title=" \mathbb{R}^{ m \times n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " />. Le gradient de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> à  la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A  " title=" A " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; m \times n " title=" m \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{A} f(A)  " title=" \nabla_{A} f(A) " /> tel que: 
 
+ <img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
+      \begin{array}{cccc} \nabla_{A} f(A) \end{array}
+   \right )  " title=" \left (
+      \begin{array}{cccc} \nabla_{A} f(A) \end{array}
+   \right )  " />
 
 
           coming soooon
