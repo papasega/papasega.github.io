@@ -297,4 +297,5 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
    **Remarque** La hessienne de f est seulement définie lorsque f est une fonction qui donne un scalaire. 
    
    
-          coming soooon
+   
+                                                  PSW 
