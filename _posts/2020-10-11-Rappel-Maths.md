@@ -219,6 +219,33 @@ L'inverse d'une matrice carrée inversible <img src="https://latex.codecogs.com/
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; AA^{-1} = A^{-1}A = I  " title=" AA^{-1} = A^{-1}A = I  " />.
 
+#### Exemple 
+la matrice de départ 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;   A = \left (
+      \begin{array}{cccc}
+1 & 2 & 3\\
+4 & 5 & 6 \\
+7 & 8 & 9 
+\end{array}
+   \right )   " title=" A = \left (
+      \begin{array}{cccc}
+1 & 2 & 3\\
+4 & 5 & 6 \\
+7 & 8 & 9 
+\end{array}
+   \right )    " />    et <img src="https://latex.codecogs.com/svg.latex?\Large&space; la matrice transposée   A^T = \left (
+      \begin{array}{cccc}
+1 & 4 & 7\\
+2 & 5 & 8 \\
+3 & 6 & 9 
+\end{array}
+   \right )   " title=" A = \left (
+      \begin{array}{cccc}
+1 & 4 & 7\\
+2 & 5 & 8 \\
+3 & 6 & 9 
+\end{array}
+   \right )    " />
 
 ```python 
 import numpy as np 
@@ -232,21 +259,6 @@ tranposer (A) = A.T
 np.transpose(A)
 
 ```
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;   A = \left (
-      \begin{array}{cccc}
-1 & 2 & 3\\
-4 & 5 & 6 \\
-7 & 8 & 9 
-\end{array}
-   \right )   " title=" A = \left (
-      \begin{array}{cccc}
-1 & 2 & 3\\
-4 & 5 & 6 \\
-7 & 8 & 9 
-\end{array}
-   \right )    " />
-
 
 
 
