@@ -233,13 +233,13 @@ la matrice de départ
 4 & 5 & 6 \\
 7 & 8 & 9 
 \end{array}
-   \right )    " />    et <img src="https://latex.codecogs.com/svg.latex?\Large&space; la matrice transposée   A^T = \left (
+   \right )    " />    et la matrice transposée <img src="https://latex.codecogs.com/svg.latex?\Large&space;  A^T = \left (
       \begin{array}{cccc}
 1 & 4 & 7\\
 2 & 5 & 8 \\
 3 & 6 & 9 
 \end{array}
-   \right )   " title=" A = \left (
+   \right )   " title=" A^T = \left (
       \begin{array}{cccc}
 1 & 4 & 7\\
 2 & 5 & 8 \\
