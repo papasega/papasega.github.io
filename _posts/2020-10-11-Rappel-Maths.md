@@ -315,10 +315,12 @@ plt.style.use(['ggplot'])
 
 ## Création de données 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; <h5> Generate some data with:
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; 
 \begin{equation} \theta_0= 4 \end{equation} 
-\begin{equation} \theta_1= 3 \end{equation}   " title=" <h5> Generate some data with:
+
+\begin{equation} \theta_1= 3 \end{equation}   " title=" 
 \begin{equation} \theta_0= 4 \end{equation} 
+
 \begin{equation} \theta_1= 3 \end{equation}   " />
  
 ```python 
