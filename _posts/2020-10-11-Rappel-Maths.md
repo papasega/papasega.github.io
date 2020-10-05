@@ -278,9 +278,13 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
 
  <img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
       \begin{array}{cccc} \nabla_{A} f(A) \end{array}
-   \right )  " title=" \left (
+   \right )_{i,j}  = \frac{\partial f(A)}{\partial A_{i,j}} " title=" \left (
       \begin{array}{cccc} \nabla_{A} f(A) \end{array}
-   \right )  " />
+   \right )_{i,j} = \frac{\partial f(A)}{\partial A_{i,j}}  " />
 
 
+**Remarque**: Le gradient de f est seulement définit lorsque f est une fonction donnant un scalaire. 
+
+### Hessienne 
+Soit ...
           coming soooon
