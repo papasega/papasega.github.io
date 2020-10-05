@@ -286,5 +286,15 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
 **Remarque**: Le gradient de f est seulement définit lorsque f est une fonction donnant un scalaire. 
 
 ### Hessienne 
-Soit ...
+Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f  " /> une fonction définie  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{ n}  " title=" \mathbb{R}^{n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " /> et <img src="https://latex.codecogs.com/svg.latex?\Large&space; x \in \mathbb{R}^{n}  " title=" x \in \mathbb{R}^{n} " /> un vecteur.  La hessienne de  de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> par rapport à <img src="https://latex.codecogs.com/svg.latex?\Large&space; x  " title=" x " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; n \times n " title=" n \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{x}^2 f(A)  " title=" \nabla_{x}^2 f(A) " /> , telle que: 
+
+ <img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
+      \begin{array}{cccc} \nabla_{x}^2 f(x) \end{array}
+   \right )_{i,j}  = \frac{\partial^2 f(x)}{\partial x_i \partial x_j} " title=" \left (
+      \begin{array}{cccc} \nabla_{x}^2 f(x) \end{array}
+   \right )_{i,j}  = \frac{\partial^2 f(x)}{\partial x_i \partial x_j}  " />
+   
+   **Remarque** La hessienne de f est seulement définie lorsque f est une fonction qui donne un scalaire. 
+   
+   
           coming soooon
