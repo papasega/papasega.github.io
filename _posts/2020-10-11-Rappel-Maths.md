@@ -233,15 +233,19 @@ np.transpose(A)
 
 ```
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;   A = \left ( \begin{matrix}
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;   A = \left (
+      \begin{array}{cccc}
 1 & 2 & 3\\
 4 & 5 & 6 \\
 7 & 8 & 9 
-\end{matrix}  " title=" \begin{matrix}
+\end{array}
+   \right )   " title=" A = \left (
+      \begin{array}{cccc}
 1 & 2 & 3\\
 4 & 5 & 6 \\
 7 & 8 & 9 
-\end{matrix}  \right )   " />
+\end{array}
+   \right )    " />
 
 
 
