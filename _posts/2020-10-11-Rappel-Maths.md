@@ -302,3 +302,73 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
    
    
                                                   PSW 
+                                                  
+
+# Application: Gradient Descent in Python (la descente du grndient) 
+
+```python 
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+plt.style.use(['ggplot'])
+```
+
+## Création de données 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; <h5> Generate some data with:
+\begin{equation} \theta_0= 4 \end{equation} 
+\begin{equation} \theta_1= 3 \end{equation}   " title=" <h5> Generate some data with:
+\begin{equation} \theta_0= 4 \end{equation} 
+\begin{equation} \theta_1= 3 \end{equation}   " />
+ 
+```python 
+X = 2 * np.random.rand(100,1)
+y = 4 +3 * X+np.random.randn(100,1)
+```
+**Affichage des données**
+```python
+plt.plot(X,y,'b.')
+plt.xlabel("$x$", fontsize=18)
+plt.ylabel("$y$", rotation=0, fontsize=18)
+_ =plt.axis([0,2,0,15])
+```
+
+![image](https://drive.google.com/uc?export=view&id=1eygYRmMw_dEspG9-7wWuFRfNA2lFKfyP)
+
+
+**Faisons une première approche de regression linéaire**
+
+```pyhon 
+X_b = np.c_[np.ones((100,1)),X]
+theta_best = np.linalg.inv(X_b.T.dot(X_b)).dot(X_b.T).dot(y)
+print(theta_best)
+```
+[[3.8635763 ]
+ [3.08973657]]
+
+
+```python
+X_new = np.array([[0],[2]])
+X_new_b = np.c_[np.ones((2,1)),X_new]
+y_predict = X_new_b.dot(theta_best)
+y_predict
+```
+array([[ 3.8635763 ],
+       [10.04304945]])
+
+**affichage de la droite de regression**
+
+```python
+plt.plot(X_new,y_predict,'r-')
+plt.plot(X,y,'b.')
+plt.xlabel("$x_1$", fontsize=18)
+plt.ylabel("$y$", rotation=0, fontsize=18)
+plt.axis([0,2,0,15])
+
+```
+
+![image](https://drive.google.com/uc?export=view&id=1bNog0oFQyZeUuirW0TUuHFmzYQRNcUzS)
+
+# Gardient Descent 
+
+             coming soon 
