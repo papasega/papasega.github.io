@@ -160,7 +160,7 @@ Le produit de la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&s
    
    
    
-#### Matrice-matrice.
+#### Matrice-Matrice.
 
 Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  " title="A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  "/> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; \mathbb{R}^{n \times p}  " title="\mathbb{R}^{n \times p} "/> tel que :
    
@@ -183,6 +183,25 @@ Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&sp
 
 ![image](https://drive.google.com/uc?export=view&id=1vm3vRTynlSlqKo8Ysk_vBjx7oyIYrxBk)
 
+
+#### Produit matriciel Sur python: 
+
+```python
+# On définit la fonction permettant de calculer le produit de deux matrices. 
+def produit(A, B):
+    return [[sum(L[k] * B[k][j] for k in range(len(L))) for j in range(len(B[0]))] for L in A]
+   
+# On définit les deux matrices A et B 
+A = [[1, 7], [2,4]]
+
+B = [[3, 3], [5, 2]]
+
+produit(A, B)
+[[38, 17], [26, 14]]
+
+produit(B, A)
+[[9, 33], [9, 43]]
+````
 
 #### Autres opérations 
 
