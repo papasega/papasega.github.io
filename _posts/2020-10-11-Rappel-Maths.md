@@ -227,13 +227,13 @@ A = np.array([[1,2,3],[4,5,6],[7,8,9]])
 # On affiche la matrice A
 print(A)
 # La transposer de la matrice de A
-tranposer (A) = A.T$
+tranposer (A) = A.T
 #Avec la fonction transpose de numpy
 np.transpose(A)
 
 ```
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; \begin{matrix}
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;   A = \left ( \begin{matrix}
 1 & 2 & 3\\
 4 & 5 & 6 \\
 7 & 8 & 9 
@@ -241,7 +241,7 @@ np.transpose(A)
 1 & 2 & 3\\
 4 & 5 & 6 \\
 7 & 8 & 9 
-\end{matrix}  " />
+\end{matrix}  \right )   " />
 
 
 
