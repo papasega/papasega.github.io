@@ -156,13 +156,13 @@ Le produit de la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&s
      a^T_{r,m}x \\
    \end{array}
    \right )  = \sum_{i=1}^{n}a_{c,i}x_i  \in \mathbb{R}^{m} " /> où les
-   <img src="https://latex.codecogs.com/svg.latex?\Large&space; a^{T}_{r,i}  " title="a^{T}_{r,i} "/> sont les vecteurs-ligne et <img src="https://latex.codecogs.com/svg.latex?\Large&space; a_{c,i}  " title="a_{c,i} "/> sont les vecteurs-colonne de <img src="https://latex.codecogs.com/svg.latex?\Large&space; A et x_i  " title=" A et x_i "/> sont les entrées de x. 
+   <img src="https://latex.codecogs.com/svg.latex?\Large&space; a^{T}_{r,i}  " title="a^{T}_{r,i} "/> sont les vecteurs-ligne et <img src="https://latex.codecogs.com/svg.latex?\Large&space; a_{c,i}  " title="a_{c,i} "/> sont les vecteurs-colonne de <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \ et \  x_i  " title=" A et x_i "/> sont les entrées de x. 
    
    
    
 #### Matrice-Matrice.
 
-Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  " title="A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  "/> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; \mathbb{R}^{n \times p}  " title="\mathbb{R}^{n \times p} "/> tel que :
+Le produit des matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n }  , \   B \in \mathbb{R}^{n \times p}  " title="A \in \mathbb{R}^{m \times n }  et B \in \mathbb{R}^{n \times p}  "/> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; \mathbb{R}^{n \times p}  " title="\mathbb{R}^{n \times p} "/> tel que :
    
    <img src="https://latex.codecogs.com/svg.latex?\Large&space; AB = \left (
       \begin{array}{cccc}
