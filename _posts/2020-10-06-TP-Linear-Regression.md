@@ -14,7 +14,7 @@ Le but de cet article est de s'entraîner à implémenter une algèbre linéaire
 
 # 2. Definition
 
-L'objectif de la régression simple (resp. multiple) est d'expliquer une variable  <img src="https://latex.codecogs.com/svg.latex?\Large&space; Y \ à  l'aide  d'une  variable  \ X " tittle= " Y \ à  l'aide  d'une  variable  \ X " /> (resp. plusieurs variables <img src="https://latex.codecogs.com/svg.latex?\Large&space; X_1,  X_2, ..., X_p " title= "X_1,  X_2, ..., X_p  " /> ). 
+L'objectif de la régression simple (resp. multiple) est d'expliquer une variable  <img src="https://latex.codecogs.com/svg.latex?\Large&space; Y  \ \ à \ \  l'aide \ \  d'une  \ \ variable \ \  X " tittle= " Y  \ \ à  \ \ l'aide \ \  d'une \ \  variable \ \  X " /> (resp. plusieurs variables <img src="https://latex.codecogs.com/svg.latex?\Large&space; X_1,  X_2, ..., X_p " title= "X_1,  X_2, ..., X_p  " /> ). 
 La variable <img src="https://latex.codecogs.com/svg.latex?\Large&space; Y  " title="Y  " /> est appelée variable dépendante, ou variable à expliquer et les
 variables <img src="https://latex.codecogs.com/svg.latex?\Large&space; X_j, \ (j=1,..., p)  " title="X_j, \ (j=1,..., p) " /> (j=1,...,q) sont appelées variables indépendantes, ou variables explicatives.
 
