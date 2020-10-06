@@ -56,7 +56,7 @@ plt.plot(X, y, 'o', markersize=10)
 plt.xlabel("$x$")
 plt.ylabel("$y$");
 ```
-![image](https://drive.google.com/uc?export=1b4_e9tVtuEotgemC7JJjXPAIt1_OZ-O-)
+![image](https://drive.google.com/uc?export=view&id=1b4_e9tVtuEotgemC7JJjXPAIt1_OZ-O-)
 
 ## Maximum Likelihood (où Maximum de vraisemblance)
 
