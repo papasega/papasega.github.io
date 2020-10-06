@@ -58,7 +58,7 @@ plt.ylabel("$y$");
 ```
 ![image](https://drive.google.com/uc?export=view&id=1b4_e9tVtuEotgemC7JJjXPAIt1_OZ-O-)
 
-## Maximum Likelihood (où Maximum de vraisemblance)
+## 3. Maximum Likelihood (où Maximum de vraisemblance)
 
 Nous commencerons par l'estimation du **maximum de vraisemblance** des paramètres θ. Dans l'estimation du maximum de vraisemblance, nous trouvons les paramètres <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta^{ML}  " title=" " /> qui maximisent la vraisemblance. 
 
