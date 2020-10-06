@@ -61,11 +61,15 @@ plt.ylabel("$y$");
 ## Maximum Likelihood (où Maximum de vraisemblance)
 
 Nous commencerons par l'estimation du **maximum de vraisemblance** des paramètres θ. Dans l'estimation du maximum de vraisemblance, nous trouvons les paramètres <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta^{ML}  " title=" " /> qui maximisent la vraisemblance. 
+
+
 **L'estimateur du maximum de vraisemblance** est un estimateur statistique utilisé pour inférer les paramètres de la loi de probabilité d'un échantillon donné en recherchant les valeurs des paramètres maximisant la fonction de vraisemblance. Un **estimateur** est une statistique permettant d'évaluer un paramètre inconnu relatif à une loi de probabilité (comme son espérance ou sa variance).
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space; p(\mathcal Y | \mathcal X, \boldsymbol\theta) = \prod_{n=1}^N p(y_n | \boldsymbol x_n, \boldsymbol\theta)\,.  " title=" " />. 
+
+
 J'avais mentioné dans un précedent poste *[introduit en machine learning](https://papasega.github.io/psw_blog/2020-09-27-into-ML/)* un lien de la demontration de  <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta^{ML}  " title=" " /> definie par:
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; \boldsymbol\theta^{\text{ML}} = (\boldsymbol X^T\boldsymbol X)^{-1}\boldsymbol X^T\boldsymbol y\in\mathbb{R}^D\,,  " title=" " />   avec   <img src="https://latex.codecogs.com/svg.latex?\Large&space; boldsymbol X = [\boldsymbol x_1, \ldots, \boldsymbol x_N]^T\in\mathbb{R}^{N\times D}\,,\quad \boldsymbol y = [y_1, \ldots, y_N]^T \in\mathbb{R}^N\,.  " title=" " />. 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \boldsymbol\theta^{\text{ML}} = (\boldsymbol X^T\boldsymbol X)^{-1}\boldsymbol X^T\boldsymbol y\in\mathbb{R}^D\,,  " title=" " />   avec   <img src="https://latex.codecogs.com/svg.latex?\Large&space; \boldsymbol X = [\boldsymbol x_1, \ldots, \boldsymbol x_N]^T\in\mathbb{R}^{N\times D}\,,\quad \boldsymbol y = [y_1, \ldots, y_N]^T \in\mathbb{R}^N\,.  " title=" " />. 
 
 Evaluons l'estimation du maximum de vraisemblance pour un ensemble de données d'apprentissage. 
 ```python
