@@ -21,7 +21,8 @@ L'objectif de la régression simple (resp. multiple) est d'expliquer une variabl
 La variable <img src="https://latex.codecogs.com/svg.latex?\Large&space; Y  " title="Y  " /> est appelée variable dépendante, ou variable à expliquer et les
 variables <img src="https://latex.codecogs.com/svg.latex?\Large&space; X_j, \ (j=1,..., p)  " title="X_j, \ (j=1,..., p) " />  sont appelées variables indépendantes, ou variables explicatives.
 
-![image](https://drive.google.com/uc?export=1lhGMOB_QVY8HFQBOPPKYheWaqnferFLY)
+![image](https://drive.google.com/uc?export=view&id=1lhGMOB_QVY8HFQBOPPKYheWaqnferFLY)
+
 
 [*Un résumé de lecture théorique*](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-l-inf-regsim.pdf)
 
@@ -59,7 +60,7 @@ plt.ylabel("$y$");
 
 ## Maximum Likelihood (où Maximum de vraisemblance)
 
-Nous commencerons par l'estimation du maximum de vraisemblance des paramètres θ. Dans l'estimation du maximum de vraisemblance, nous trouvons les paramètres $θ^ML$ qui maximisent la vraisemblance. 
-
+Nous commencerons par l'estimation du **maximum de vraisemblance** des paramètres θ. Dans l'estimation du maximum de vraisemblance, nous trouvons les paramètres $θ^ML$ qui maximisent la vraisemblance. 
+L'estimateur du maximum de vraisemblance est un estimateur statistique utilisé pour inférer les paramètres de la loi de probabilité d'un échantillon donné en recherchant les valeurs des paramètres maximisant la fonction de vraisemblance.
 
 Great tuto by Marc Deisenroth (english version)
