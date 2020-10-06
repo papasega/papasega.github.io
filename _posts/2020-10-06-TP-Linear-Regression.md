@@ -60,7 +60,61 @@ plt.ylabel("$y$");
 
 ## Maximum Likelihood (où Maximum de vraisemblance)
 
-Nous commencerons par l'estimation du **maximum de vraisemblance** des paramètres θ. Dans l'estimation du maximum de vraisemblance, nous trouvons les paramètres $θ^ML$ qui maximisent la vraisemblance. 
-L'estimateur du maximum de vraisemblance est un estimateur statistique utilisé pour inférer les paramètres de la loi de probabilité d'un échantillon donné en recherchant les valeurs des paramètres maximisant la fonction de vraisemblance.
+Nous commencerons par l'estimation du **maximum de vraisemblance** des paramètres θ. Dans l'estimation du maximum de vraisemblance, nous trouvons les paramètres <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta^{ML}  " title=" " /> qui maximisent la vraisemblance. 
+**L'estimateur du maximum de vraisemblance** est un estimateur statistique utilisé pour inférer les paramètres de la loi de probabilité d'un échantillon donné en recherchant les valeurs des paramètres maximisant la fonction de vraisemblance. Un **estimateur** est une statistique permettant d'évaluer un paramètre inconnu relatif à une loi de probabilité (comme son espérance ou sa variance).
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; p(\mathcal Y | \mathcal X, \boldsymbol\theta) = \prod_{n=1}^N p(y_n | \boldsymbol x_n, \boldsymbol\theta)\,.  " title=" " />. 
+J'avais mentioné dans un précedent poste *[introduit en machine learning](https://papasega.github.io/psw_blog/2020-09-27-into-ML/)* un lien de la demontration de  <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta^{ML}  " title=" " /> definie par:
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \boldsymbol\theta^{\text{ML}} = (\boldsymbol X^T\boldsymbol X)^{-1}\boldsymbol X^T\boldsymbol y\in\mathbb{R}^D\,,  " title=" " />   avec   <img src="https://latex.codecogs.com/svg.latex?\Large&space; boldsymbol X = [\boldsymbol x_1, \ldots, \boldsymbol x_N]^T\in\mathbb{R}^{N\times D}\,,\quad \boldsymbol y = [y_1, \ldots, y_N]^T \in\mathbb{R}^N\,.  " title=" " />. 
+
+Evaluons l'estimation du maximum de vraisemblance pour un ensemble de données d'apprentissage. 
+```python
+def max_lik_estimate(X, y): 
+    
+    # X: N x D matrix of training inputs
+    # y: N x 1 vector of training targets/observations
+    # returns: maximum likelihood parameters (D x 1)
+    
+    N, D = X.shape
+    theta_ml = np.linalg.solve(X.T @ X, X.T @ y) 
+    return theta_ml 
+```
+```python 
+# get maximum likelihood estimate
+theta_ml = max_lik_estimate(X,y)
+```
+Nous maintenant faire une préduction utilisant le résultat trouver de l'estimateur du maximum de vraisemblance.
+
+
+```python
+
+def predict_with_estimate(Xtest, theta):
+    
+    # Xtest: K x D matrix of test inputs
+    # theta: D x 1 vector of parameters
+    # returns: prediction of f(Xtest); K x 1 vector
+    
+    prediction = Xtest @ theta 
+    
+    return prediction 
+```
+Regardons maintenant le résultat
+
+```python 
+# define a test set
+Xtest = np.linspace(-5,5,100).reshape(-1,1) # 100 x 1 vector of test inputs
+
+# predict the function values at the test points using the maximum likelihood estimator
+ml_prediction = predict_with_estimate(Xtest, theta_ml)
+
+# plot
+plt.figure()
+plt.plot(X, y, 'o', markersize=10)
+plt.plot(Xtest, ml_prediction)
+plt.xlabel("$x$")
+plt.ylabel("$y$");
+```
+
+![image](https://drive.google.com/uc?export=view&id=1yjDb4-IoZdWB1l1UZrulr5CffEZBWTef)
+***********************************************
 Great tuto by Marc Deisenroth (english version)
