@@ -28,5 +28,12 @@ plt.style.use(['ggplot'])
 ```
 Nous considérons un problème de régression linéaire de la forme. 
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; y = \boldsymbol x^T\boldsymbol\theta + \epsilon\,,\quad \epsilon \sim \mathcal N(0, \sigma^2)  " title=" y = \boldsymbol x^T\boldsymbol\theta + \epsilon\,,\quad \epsilon \sim \mathcal N(0, \sigma^2)  " />
+
+Avce <img src="https://latex.codecogs.com/svg.latex?\Large&space; x \in \mathbb{R}^{D}  " title=" s \in \mathbb{R}^{D} " /> sont les entrées et <img src="https://latex.codecogs.com/svg.latex?\Large&space; y  " title=" y  " /> les observations bruyantes. Le parametre <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta \in \mathbb{R}^{D}  " title=" " />
+
+
+
+
 
 Great tuto by Marc Deisenroth (english version)
