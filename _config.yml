@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Papa Séga WADE
+title: [Papa Séga WADE](https://papasega.github.io/psw_blog/aboutme/)
 
 # Short description of your site
 description: Les Maths et IA en particulier en Reconnaissance Automatique de la Parole (RAP) 
@@ -22,10 +22,14 @@ url: "https://github.com/papasega/psw_blog/"
 navbar-links:
   Blog: "index.html"
   A propos de moi: "aboutme"
+  Machine learning: "ML"
+  Deep learning: "DL"
+  Projects: "projects"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo_psw.PNG"
+avatar: ["/img/logo_psw.PNG"](https://papasega.github.io/psw_blog/aboutme/)
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
