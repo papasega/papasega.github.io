@@ -116,5 +116,54 @@ plt.ylabel("$y$");
 ```
 
 ![image](https://drive.google.com/uc?export=view&id=1yjDb4-IoZdWB1l1UZrulr5CffEZBWTef)
+
+
+Ainsi on peut se poser les questions suivantes: 
+    - Est ce que la solution obetue ci-dessu semble-t-elle raisonable ? 
+    - En modifiant les valeurs de θ, comment les fonctions correspondantes changent-elle ? 
+    -En modifiant la variable à expliquer <img src="https://latex.codecogs.com/svg.latex?\Large&space; \mathcal Y " title=" " /> , qules changements observe--on ? 
+
+
+
+Examinons maintenant un ensemble d'apprentissage différent, où nous ajoutons 2.0 à chaque valeur y, et calculons l'estimation du maximum de vraisemblance.
+
+```python
+ynew = y + 2.0
+
+plt.figure()
+plt.plot(X, ynew, '*', markersize=10)
+plt.xlabel("$x$")
+plt.ylabel("$y$");
+```
+![image](https://drive.google.com/uc?export=view&id=12v4d93P5Xn6e_2to2cyiL5HFYCxnRKbB)
+
+```python
+# get maximum likelihood estimate
+theta_ml = max_lik_estimate(X, ynew)
+print(theta_ml)
+
+# define a test set
+Xtest = np.linspace(-5,5,100).reshape(-1,1) # 100 x 1 vector of test inputs
+
+# predict the function values at the test points using the maximum likelihood estimator
+ml_prediction = predict_with_estimate(Xtest, theta_ml)
+
+# plot
+plt.figure()
+plt.plot(X, ynew, 'o', markersize=10)
+plt.plot(Xtest, ml_prediction)
+plt.xlabel("$x$")
+plt.ylabel("$y$");
+```
+![image](https://drive.google.com/uc?export=view&id=13kV72b_10xgBldTmuYitErVtYuN-h5iR)
+
+
+
+
+
+
+
+
+
 ***********************************************
 Great tuto by Marc Deisenroth (english version)
