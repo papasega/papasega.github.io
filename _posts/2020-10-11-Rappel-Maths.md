@@ -304,7 +304,7 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
                                                   PSW 
                                                   
 
-# Application: Gradient Descent in Python (la descente du grndient) 
+## Application: Gradient Descent in Python (la descente du grndient) 
 
 ```python 
 import numpy as np
@@ -313,7 +313,7 @@ import matplotlib.pyplot as plt
 plt.style.use(['ggplot'])
 ```
 
-## Création de données 
+### Création de données 
 
  Soient <img src="https://latex.codecogs.com/svg.latex?\Large&space; \theta_0 = 4  \  \theta_1 = 3  " title=" \theta_0 = 4  \  \theta_1 = 3 " /> 
  
@@ -365,6 +365,7 @@ plt.axis([0,2,0,15])
 
 ![image](https://drive.google.com/uc?export=view&id=1bNog0oFQyZeUuirW0TUuHFmzYQRNcUzS)
 
-# Gardient Descent 
+### Gardient Descent 
+Dans un nouveau poste !
 
              coming soon 
