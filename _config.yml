@@ -22,8 +22,6 @@ url: "https://github.com/papasega/psw_blog/"
 navbar-links:
   Blog: "index.html"
   A propos de moi: "aboutme"
-  Machine learning: "ML"
-  Deep learning: "DL"
   Projects: "projects"
   
 
