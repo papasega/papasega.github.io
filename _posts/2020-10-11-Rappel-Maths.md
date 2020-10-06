@@ -203,7 +203,7 @@ produit(B, A)
 [[9, 33], [9, 43]]
 ````
 
-## Autres opérations 
+## 3.4 Autres opérations 
 
 ### Transposé
 La transposée d'une matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A \in \mathbb{R}^{m \times n} " title="A \in \mathbb{R}^{m \times n} " /> est notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; A^T  " title="A^T  " /> et est dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{n \times m} " title=" \mathbb{R}^{n \times m} " /> tel que: 
@@ -274,9 +274,9 @@ La trace d'une matrice carrée <img src="https://latex.codecogs.com/svg.latex?\L
 Remarque:  pour toutes matrices <img src="https://latex.codecogs.com/svg.latex?\Large&space; A, B  " title=" A, B " /> on a <img src="https://latex.codecogs.com/svg.latex?\Large&space; tr(A^T) = tr(A)  " title=" tr(A^T) = tr(A) " /> et <img src="https://latex.codecogs.com/svg.latex?\Large&space; tr(A) = \sum_{i=1}^{n}A_{i,i}  " title=" tr(A) = \sum_{i=1}^{n}A_{i,i}  " />. 
 
 
-# Analyse matricielle
+# 4. Analyse matricielle
 
-### Gradient
+### 4.1 Gradient
 Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f  " /> une fonction définie  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{ m \times n}  " title=" \mathbb{R}^{ m \times n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " />. Le gradient de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> à  la matrice <img src="https://latex.codecogs.com/svg.latex?\Large&space; A  " title=" A " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; m \times n " title=" m \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{A} f(A)  " title=" \nabla_{A} f(A) " /> tel que: 
 
  <img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
@@ -288,7 +288,7 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
 
 **Remarque**: Le gradient de f est seulement définit lorsque f est une fonction donnant un scalaire. 
 
-### Hessienne 
+### 4.2 Hessienne 
 Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f  " /> une fonction définie  <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}^{ n}  " title=" \mathbb{R}^{n}  " /> dans <img src="https://latex.codecogs.com/svg.latex?\Large&space;  \mathbb{R}  " title=" \mathbb{R} " /> et <img src="https://latex.codecogs.com/svg.latex?\Large&space; x \in \mathbb{R}^{n}  " title=" x \in \mathbb{R}^{n} " /> un vecteur.  La hessienne de  de <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f " /> par rapport à <img src="https://latex.codecogs.com/svg.latex?\Large&space; x  " title=" x " /> est une matrice de taille <img src="https://latex.codecogs.com/svg.latex?\Large&space; n \times n " title=" n \times n " />, notée <img src="https://latex.codecogs.com/svg.latex?\Large&space; \nabla_{x}^2 f(A)  " title=" \nabla_{x}^2 f(A) " /> , telle que: 
 
  <img src="https://latex.codecogs.com/svg.latex?\Large&space; \left (
@@ -304,7 +304,7 @@ Soit <img src="https://latex.codecogs.com/svg.latex?\Large&space; f  " title=" f
                                                   PSW 
                                                   
 
-## Application: Gradient Descent in Python (la descente du grndient) 
+## 4.3 Application: Gradient Descent in Python (la descente du grndient) 
 
 ```python 
 import numpy as np
@@ -366,6 +366,6 @@ plt.axis([0,2,0,15])
 ![image](https://drive.google.com/uc?export=view&id=1bNog0oFQyZeUuirW0TUuHFmzYQRNcUzS)
 
 ### Gardient Descent 
-Dans un nouveau poste !
+Dans un nouveau poste ! On verra comment implémenter l'équation du gradient et de la fonction coût sur python. 
 
              coming soon 
