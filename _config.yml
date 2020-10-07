@@ -135,6 +135,8 @@ staticman:
     # If you use reCaptcha, you must also set these parameters in staticman.yml
     siteKey  : # Use your own site key, you need to apply for one on Google
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    
+staticman_url: https://${bridge_app_name}.herokuapp.com/v2/entry/${github-username}/${blog-repo}/master/comments
 
 # --- Misc --- #
 
