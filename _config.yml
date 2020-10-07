@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Papa Séga WADE
+title: Papa S. WADE
 
 # Short description of your site
 description: Les Maths et IA en particulier en Reconnaissance Automatique de la Parole (RAP) 
@@ -69,7 +69,7 @@ social-network-links:
   rss: true
   email: "pasega.wade@gmail.com"
   # facebook: deanattali
-  github: "phttps://github.com/papasega/"
+  github: "papasega"
   twitter: papasegaw
 #  reddit: yourname
   linkedin: "https://www.linkedin.com/in/papa-séga-wade-a5727513a"
