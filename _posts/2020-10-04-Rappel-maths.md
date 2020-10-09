@@ -369,3 +369,8 @@ plt.axis([0,2,0,15])
 Dans un nouveau poste ! On verra comment implémenter l'équation du gradient et de la fonction coût sur python. 
 
              coming soon 
+
+
+
+**Sources:**
+From my friend at Stanford [Shervine Amidi](https://stanford.edu/~shervine/l/fr/) thanks for this !
