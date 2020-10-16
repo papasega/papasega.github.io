@@ -107,7 +107,7 @@ Vous pourriez bien dire comment vous donnez un sens à toutes ces différentes u
 
 Heureusement, nous avons un dictionnaire qui représente le vocabulaire en quelque sorte phonétisé. Il s'agit d'une correspondance entre les mots et la façon dont vous les prononcez dans les unités sonores. Ce dictionnaire est ce que nous utilisons pour donner un sens à tout cela. Les différents phonèmes et passez de votre modèle acoustique aux mots sensibles. Mais maintenant, vous avez un tas de mots qui doivent être mis dans une phrase.
 
-![image](https://drive.google.com/uc?export=view&id=1pkUeNuDGJ3ID3n1dgdRexMYEnpzuN1xa)
+![image](https://drive.google.com/uc?export=view&id=18CCGCCdAiT8KpxkgNHbvSd3V9QTQVDnb)
 
 
 Vous pouvez utiliser de nombreuses combinaisons différentes. Comment déterminez-vous quelle est la bonne combinaison? C'est là que vous utiliserez un modèle de langage qui vous aidera à comprendre le contexte d'une phrase sur les mots et à déterminer quelle est la combinaison la plus probable et la séquence de ces mots qui ont du sens, et vous avez là votre sortie de votre ASR. Le rôle du modèle de langage est d’estimer la probabilité à priori de séquence de mot.
