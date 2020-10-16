@@ -138,5 +138,10 @@ Eh bien, prenons un peu de recul et ré-évaluons simplement ce que nous faisons
 
 ![image](https://drive.google.com/uc?export=view&id=1pwP0gfrYmjZRQukvrDpWvKY4FrA1h_Ea)
 
+## Modélisation mathélatique:
+
+![image](https://drive.google.com/uc?export=view&id=1Zd0kjX86n4DNlaBXunMn75AEjytgzLJm)
+
+
 
 En construction .....
