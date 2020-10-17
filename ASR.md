@@ -127,6 +127,9 @@ Eh bien, prenons un peu de recul et ré-évaluons simplement ce que nous faisons
 ![image](https://drive.google.com/uc?export=view&id=1pwP0gfrYmjZRQukvrDpWvKY4FrA1h_Ea)
 
 ## Modélisation mathélatique:
+Nous allons essayer de modeliser cette figure ci-dessous en équations mathèmatiques et comprendre comment fonction le modèle de langage. 
+
+![image](https://drive.google.com/uc?export=view&id=1sgbXsZqwuW69s-tl-yhja4svWy1H9L18)
 
 ![image](https://drive.google.com/uc?export=view&id=1Zd0kjX86n4DNlaBXunMn75AEjytgzLJm)
 
