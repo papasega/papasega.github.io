@@ -27,7 +27,8 @@ Les technologies d'ingénierie linguistique font fonctionner de nombreuses appli
 
 Comment fonctionne un sydtème de Reconnaissance Automatique de la Parole (RAP) en anglais Automatic Speech Recognition (ASR) ? 
 
-![image](https://drive.google.com/uc?export=view&id=1VCXxTcHy-dTFS-osDPdVQNnYgvCfR0ad)
+![image](https://drive.google.com/uc?export=view&id=1sgbXsZqwuW69s-tl-yhja4svWy1H9L18)
+
 
 Nous verrons la réponse de cette question dans la suite de l'article.  
 
@@ -73,7 +74,8 @@ La première chose à laquelle nous pensons est de savoir comment utiliser la vo
 
 ## 3. Le système de reconnaissance vocale  
 
-![image](https://drive.google.com/uc?export=view&id=1VCXxTcHy-dTFS-osDPdVQNnYgvCfR0ad)
+![image](https://drive.google.com/uc?export=view&id=1sgbXsZqwuW69s-tl-yhja4svWy1H9L18)
+
 
 ### 3.1 Le modèle acoustique**
 Le modèle acoustique étant le modèle utilisé dans la reconnaissance automatique de la parole pour représenter la relation entre un signal audio et les phonèmes ou autres entités linguistiques qui composent la parole. Ce modèle est tiré d'un ensemble d'enregistrement audio et de leurs transcriptions correspondantes. Il est créé en prenant des enregistrements audio de la parole et de leurs transcriptions de texte, et en utilisant un logiciel pour créer des représentations statistiques des sons qui composent chaque mot. Cela peut être pour chaque langue différente, tout le vocabulaire, les modèles de discours, l'argot local etc.
