@@ -127,15 +127,61 @@ Eh bien, prenons un peu de recul et ré-évaluons simplement ce que nous faisons
 
 ![image](https://drive.google.com/uc?export=view&id=1pwP0gfrYmjZRQukvrDpWvKY4FrA1h_Ea)
 
-## Modélisation mathélatique:
-Nous allons essayer de modeliser cette figure ci-dessous en équations mathèmatiques et comprendre comment fonction le modèle de langage. 
+## 4. Modélisation mathélatique:
+
+Nous allons essayer de modeliser cette figure ci-dessous, qui est la vue shématique d'un système de reconnaissance automatique de la parole, en équations mathèmatiques et comprendre comment fonction le modèle de langage. 
 
 ![image](https://drive.google.com/uc?export=view&id=1jX8oRzdyg-PT36AYGZbMEHhau5jxpBfo)
 
-
+### 4.1 Principes généreaux 
+ 
+Le but d'un système de reconnaissance automatique de la parole est de fournir la
+transcription textuelle d'un signal audio d'entrée contenant de la parole. Dans le cadre de la
+modélisation statistique de la parole, cette tâche équivaut à rechercher parmi l'ensemble des
+séquences de mots possibles à partir d'un vocabulaire fixé la séquence la plus probable <img src="https://latex.codecogs.com/svg.latex?\Large&space; W^*} " title="  " />
+étant donnée une séquence <img src="https://latex.codecogs.com/svg.latex?\Large&space; A} " title="  " />  de caractéristiques acoustiques observées à partir du signal
+d'entrée. Mathématiquement, cela s'écrit sous la forme de la maximisation a posteriori
+suivante :
 
 ![image](https://drive.google.com/uc?export=view&id=1Zd0kjX86n4DNlaBXunMn75AEjytgzLJm)
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; p(A|W)} " title="  " /> est la vraisemblance des observations acoustiques sachant une séquence de mots testée,  <img src="https://latex.codecogs.com/svg.latex?\Large&space; P(W)} " title="  " /> estv la probabilité a priori de cette séquence de mots et <img src="https://latex.codecogs.com/svg.latex?\Large&space; p(A)} " title="  " /> est la vraisemblance a priori de la réalisation acoustique. Puisque la vraisemblance <img src="https://latex.codecogs.com/svg.latex?\Large&space; p(A)} " title="  " /> est la même queleque soit la séquence <img src="https://latex.codecogs.com/svg.latex?\Large&space; W} " title="  " />. 
+
+### 4.2 Caractéristisation du signal 
+
+La représentation adoptée d'un signal de parole consiste en une séquence de vecteurs num
+ériques  <img src="https://latex.codecogs.com/svg.latex?\Large&space;A = a_1 ... a_T } " title="  " />   où chaque vecteur <img src="https://latex.codecogs.com/svg.latex?\Large&space; a_i} " title="  " /> représente quelques millisecondes (typiquement
+16 ms) du signal d'entrée. De ces  "tranches" de signal, appelées trames, des caractéristiques relatives à l'énergie et aux gammes de fréquences vocales sont extraites. En incluant
+les variations du premier, voire du second ordre, de ces paramètres, les vecteurs de caract
+éristiques sont typiquement de dimension 40.
+
+![image](https://drive.google.com/uc?export=view&id=1PEHIRd5ayYzZ5IYd0BQmjvDTa_dmvOWi)
+
+### 4.3 Vocabulaire et lexique phonétisé
+
+Le vocabulaire définit l'ensemble des mots qu'est capable de manipuler le système de
+reconnaissance. En cela, cet ensemble est un élément déterminant car il restreint les sorties du système aux seuls mots qu'il contient. Typiquement, dans un système dit  "à grand vocabulaire" , le vocabulaire répertorie plusieurs dizaines de milliers de mots. En pratique, pour faire le lien entre modélisations acoustique et linguistique, ce vocabulaire est transformé en un lexique phonétisé (ou dictionnaire de prononciation, ou dictionnaire phonétique) où chaque mot est associé à une liste de prononciations possibles. Ces prononciations sont représentées sous la forme de séquences de phonèmes, unités représentant les sons élémentaires d'une langue et utilisant un alphabet propre.
+
+### 4.4 Modèle de lague: cas un bi-gramme
+
+Comme nous bien dit dans les precedentes lignes, le modèle de langue permet de calculer la probabilité a priori de séquences de mots.
+Dans le cadre qui nous intéresse des modèles de langue statistiques, cette probabilité est
+décomposée en probabilités conditionnelles, où la probabilité de chaque mot <img src="https://latex.codecogs.com/svg.latex?\Large&space; w_i} " title="  " />  de <img src="https://latex.codecogs.com/svg.latex?\Large&space; W} " title="  " /> 
+est calculée sachant l'historique des mots <img src="https://latex.codecogs.com/svg.latex?\Large&space; w_1,...w_{i-1}} " title="  " /> supposés le précéder.
+
+Pour un modèle de bi-gramme les probabilités conditionnelles sont calculées empiriquement par une technique de maximum de vraisemblance telle que se traduit comme suite:
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; p(w_i|w_{i-1}) = \frac{c(w_{i-1}w_i)}{\sum_{w_i}c(w_{i-1}w_i)}} " title="  " />
+
+ou <img src="https://latex.codecogs.com/svg.latex?\Large&space;c(w_1,...,w_i) " title="  " /> est le nombre d'occurrences de la séquence <img src="https://latex.codecogs.com/svg.latex?\Large&space; w_1,...,w_i " title="  " /> dans un vaste corpus d'apprentissage. 
+
+Prenons un exemple de corpus de trois phrases: 
+     - 1) Sama neexalu lijaasa bi kuma ko jox ? == Qui m'a donné le cadeau de mon diplôme ? 
+     - 2) Am na sama lijaasa si dara ñu kawee yi  == J'ai eu mon diplôme d'étude supérieur 
+     - 3) Lane mooy lijaasa si nasaraan == C'est quoi lijaaaa en français ? 
+
+Mainteant procédons aux calculs de probalités pour une phrase prononcé via un microphone, du genre la probabilité de suite de mot :
+p( sama neexalu lijaasa bi) = p(sama | •) p(neexal | sama) p(lijaasa | neexalu) p(bi | lijaasa) p(• | bi )  où • est une variable libre.
 
 
 Suite en construction .....
