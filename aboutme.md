@@ -47,10 +47,10 @@ La boxe consiste avant tout à placer ses coups de manière à atteindre l’adv
 Thanks my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe à mon égard.
 
 
-* 🥇 Chappion de France universitaire en 2019 🎯🎯🎯🏹
+* 🥇 Champion de France universitaire en 2019 🎯🎯🎯🏹
 * 🥈 Vice champion de France universitaire 2018    🎯🎯🏹
 
-* 🥇🥇 Double champion île de France universitaire 2018 & 2019 🏹🎯
+* 🥇🥇 Double champion île-de-France universitaire 2018 & 2019 🏹🎯
 
 * 🥇 Équipe championne de l'Ecole Polytechnique du tournoi sportif des grandes écoles de la défense 2019.
 
