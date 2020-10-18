@@ -11,7 +11,7 @@ Mon nom est Papa Séga WADE, alias PSW, je suis en Ph.D en Reconnaissance Automa
 J'ai réalisé un projet d'un système de reconnaissance automatique de la parole sur le Wolof, une langue parlée par plus de 90% des sénégalais: ainsi du Speech-To-Text (STT) et du Text-To-Speech (TTS) pour un bot vocal.
 
 Concernant mon parcours, une longue histoire! [....] 
-J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'univeristé [Assance Seck de Ziguichor](http://www.univ-zig.sn/index.php?option=com_content&view=article&id=96:departement-de-mathematiques&catid=32:univzig-elements) et enfin titulaire d'un double diplôme de [l'École Polytechnique de Paris](https://www.polytechnique.edu/), communément appelée l'X, et de [Telecom Paris](https://www.telecom-paris.fr/). 
+J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'univeristé [Assane Seck de Ziguinchor](http://www.univ-zig.sn/index.php?option=com_content&view=article&id=96:departement-de-mathematiques&catid=32:univzig-elements) et enfin titulaire d'un double diplôme de [l'École Polytechnique de Paris](https://www.polytechnique.edu/), communément appelée l'X, et de [Telecom Paris](https://www.telecom-paris.fr/). 
 
 
  En somme, bienvenue dans ce blog dédié à trois domaines qui me passionnent beaucoup:
@@ -29,7 +29,6 @@ Ne fuyez pas please, mais c'est de la mathématique 😄 et de la boxe 🥊.
 Je suis l'auteur de la page Facebook [Maths-Faciles-PSW](https://fb.me/MathsFacilesWadePs), l'objectif étant de rendre l'apprentissage des mathématiques aussi facile que possible avec des méthodes ludiques. Mais aussi de **la boxe**. 
 
 #### La Boxe anglaise 
-Je suis passioné de la boxe !
 ![image](https://drive.google.com/uc?export=view&id=1uNFK3aD_xr2mwwXc0TUIKyMXIEkafghh)
 
 
