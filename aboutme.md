@@ -11,6 +11,7 @@ Mon nom est Papa Séga WADE, alias PSW, je suis en Ph.D en Reconnaissance Automa
 J'ai réalisé un projet d'un système de reconnaissance automatique de la parole sur le Wolof, une langue parlée par plus de 90% des sénégalais: ainsi du Speech-To-Text (STT) et du Text-To-Speech (TTS) pour un bot vocal.
 
 Concernant mon parcours, une longue histoire! [....] 
+
 J'ai eu mon BAC au lycée Seydina Limamou Laye, puis une licence de maths à l'univeristé [Assane Seck de Ziguinchor](http://www.univ-zig.sn/index.php?option=com_content&view=article&id=96:departement-de-mathematiques&catid=32:univzig-elements) et enfin titulaire d'un double diplôme de [l'École Polytechnique de Paris](https://www.polytechnique.edu/), communément appelée l'X, et de [Telecom Paris](https://www.telecom-paris.fr/). 
 
 
