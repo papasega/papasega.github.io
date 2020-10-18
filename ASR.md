@@ -176,12 +176,14 @@ Pour un modèle de bi-gramme les probabilités conditionnelles sont calculées e
 ou <img src="https://latex.codecogs.com/svg.latex?\Large&space;c(w_1,...,w_i) " title="  " /> est le nombre d'occurrences de la séquence <img src="https://latex.codecogs.com/svg.latex?\Large&space; w_1,...,w_i " title="  " /> dans un vaste corpus d'apprentissage. 
 
 Prenons un exemple de corpus de trois phrases: 
-     - 1) Sama neexalu lijaasa bi kuma ko jox ? == Qui m'a donné le cadeau de mon diplôme ? 
-     - 2) Am na sama lijaasa si dara ñu kawee yi  == J'ai eu mon diplôme d'étude supérieur 
-     - 3) Lane mooy lijaasa si nasaraan == C'est quoi lijaaaa en français ? 
+  - 1) Sama neexalu lijaasa bi kuma ko jox ? == Qui m'a donné le cadeau de mon diplôme ? 
+  - 2) Am na sama lijaasa si dara ñu kawee yi  == J'ai eu mon diplôme d'étude supérieur 
+  - 3) Lane mooy lijaasa si nasaraan == C'est quoi lijaaaa en français ? 
 
 Mainteant procédons aux calculs de probalités pour une phrase prononcé via un microphone, du genre la probabilité de suite de mot :
+
 p( sama neexalu lijaasa bi) = p(sama | •) p(neexal | sama) p(lijaasa | neexalu) p(bi | lijaasa) p(• | bi )  où • est une variable libre.
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; p( sama neexalu lijaasa bi) = p(sama | •) p(neexal | sama) p(lijaasa | neexalu) p(bi | lijaasa) p(• | bi ) " title="  " />
 
 Suite en construction .....
