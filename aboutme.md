@@ -44,7 +44,7 @@ La belle boxe 🥊 de l'école cubaine: "toucher sans pour autant se faire touch
 La boxe consiste avant tout à placer ses coups de manière à atteindre l’adversaire sans être touché en retour. En effet, remporter un assaut (combat de boxe universitaire) c’est bien, mais être victorieux sans aucune blessure ni se faire toucher c’est mieux. En définitive, tout cela est possible grâce à l’art de l’esquive. C’est cet aspect du noble art qui fait de la boxe: la boxing science! 
 
 
-Thank my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe à mon égard.
+Thanks my bro, my champion [Souleymane Cissokho](https://www.instagram.com/souleycissokho/) pour tes cours boxe à mon égard.
 
 
 * 🥇 Chappion de France universitaire en 2019 🎯🎯🎯🏹
