@@ -160,7 +160,7 @@ les variations du premier, voire du second ordre, de ces paramètres, les vecteu
 ### 4.3 Vocabulaire et lexique phonétisé
 
 Le vocabulaire définit l'ensemble des mots qu'est capable de manipuler le système de
-reconnaissance. En cela, cet ensemble est un élément déterminant car il restreint les sorties du système aux seuls mots qu'il contient. Typiquement, dans un système dit  "à grand vocabulaire" , le vocabulaire répertorie plusieurs dizaines de milliers de mots. En pratique, pour faire le lien entre modélisations acoustique et linguistique, ce vocabulaire est transformé en un lexique phonétisé (ou dictionnaire de prononciation, ou dictionnaire phonétique) où chaque mot est associé à une liste de prononciations possibles. Ces prononciations sont représentées sous la forme de séquences de phonèmes, unités représentant les sons élémentaires d'une langue et utilisant un alphabet propre.
+reconnaissance. En cela, cet ensemble est un élément déterminant car il restreint les sorties du système aux seuls mots qu'il contient. Typiquement, dans un système dit  "à grand vocabulaire" , le vocabulaire répertorie plusieurs dizaines de milliers de mots. En pratique, pour faire le lien entre modélisations acoustique et linguistique, ce vocabulaire est transformé en un lexique phonétisé (ou dictionnaire de prononciation, ou dictionnaire phonétique) où chaque mot est associé à une liste de prononciations possibles.Ces prononciations sont représentées sous la forme de séquences de phonèmes, unités représentant les sons élémentaires d'une langue et utilisant un alphabet propre. Il est alors important de bien définir ces régles de phonétisation en guise d'exemple mon nom de famille est **wade** et beaucoup prononce **wadé** en autre en wolof **xar == mouton** et **xaar == attendre** qui ne sont pas pareils. 
 
 ### 4.4 Modèle de lague: cas un bi-gramme
 
@@ -184,6 +184,23 @@ Mainteant procédons aux calculs de probalités pour une phrase prononcé via un
 
 p( sama neexalu lijaasa bi) = p(sama | •) p(neexal | sama) p(lijaasa | neexalu) p(bi | lijaasa) p(• | bi )  où • est une variable libre.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; p( sama neexalu lijaasa bi) = p(sama | •) p(neexal | sama) p(lijaasa | neexalu) p(bi | lijaasa) p(• | bi ) " title="  " />
 
-Suite en construction .....
+![image](https://drive.google.com/uc?export=view&id=1K2udnFV7ZX6v91v5gWY-Yzo2HVckjLxa)
+
+### 4.5 Cas des non vus  
+
+Immaginons maintenant que nous avons devons prédire une nouvelle phrase proncée par un utilisateur du sytème. Si ce dernière contient un nouveau mot ne faisant poartie de notre corpus de départ, la probabilité sera sans doute nulle comme c'est un produit de <img src="https://latex.codecogs.com/svg.latex?\Large&space; p(s) = \prod_{i=1}^{l+1} p(w_{i-1}|w_i) " title="  " /> et que 0 est l'élément absorbant de la multiplication (5éme collège). Nous avons ainsi :
+
+p( sunu bataxalu lijaasa bi) = p(sunu | •) p(bataxalu | sunu) p(lijaasa | bataxalu) p(bi | lijaasa) p(• | bi )
+
+![image](https://drive.google.com/uc?export=view&id=1vZb2doqqrIXs0OL8FkM7Lpd4UUKEGCI0)
+
+Nous avons voire ainsi le soucis qu'on peut rencontrer à faire du ASR pour les corpus ne contenant pas beaucoup de mots uniques. C'est le cas des **"low resources languages"** c'est-à-dire les langues sous dotées. 
+C'est un constant fait sur les langues d'Afrique Subsaharien, en particulier le wolof. Heuresement on peut y remédier dans certains cas. C'est nous allons la section suivante. 
+
+### 4.6 Lissage de Winten-Bell.
+
+Considerons ces deux expréssions :  " Je sui "  et " Je support " pour une corpus donné. Il est plus probable de d'avoir "je suis grand " que " je support grand ". 
+Ainsi le lissage de Winten-Bell, permet d'eviter les probabilités nulles en modélisant la probabilité d'obeserver un N-gramme pour la première fois. Yeah une bonne nouvelle !!
+
+L'équation de Wintten-Bell ........ en construction 
