@@ -16,7 +16,6 @@ Le but de cet article est de s'entraîner à implémenter une algèbre linéaire
 
 ## 2. Definition
 
-<img src="https://render.githubusercontent.com/render/math?math= P_{WB}(w_n|w^{n-1}_{n-N+1}) =  P_WB ">
 
 L'objectif de la régression simple (resp. multiple) est d'expliquer une variable  <img src="https://latex.codecogs.com/svg.latex?\Large&space; Y  " title="Y  " /> à l'aide d'une variable <img src="https://latex.codecogs.com/svg.latex?\Large&space; X  " title="X  " /> (resp. plusieurs variables <img src="https://latex.codecogs.com/svg.latex?\Large&space; X_1,  X_2, ..., X_p " title= "X_1,  X_2, ..., X_p  " /> ). 
 
