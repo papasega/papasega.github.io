@@ -8,7 +8,7 @@ tags: [Machine Learning, ALgorithme, méthode, training]
 comments: true
 ---
 
-### Comment le machine learning cuisine le poulet rôti ? 
+### Quand le machine learning cuisine le poulet rôti !
 
 ![image](https://drive.google.com/uc?export=view&id=1GMZW6oIEr6NBYt0WiM1bnxmIZuOeLSmB)
 
@@ -24,9 +24,9 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
  Cependant l’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
  Le machine learning se divise en deux principales phases : la phase **d'apprentissage** et la phase de **prédiction**. 
  
- - Lors de la phase d'apprentissage la machine (i.e l'ordinateur) se base sur **plusieurs exemples** afin de comprendre **la logique du modèle qu'elle doit intégrer**. On dirait un agent de la **CIA ou du FBI** (la machine) qui surveille un **présumé suspect** (l'exemple de sortie) pour savoir la plus belle manière de la cuisiner, ah c'est pas bien tout ça ! Lors de cette phase, le machine learning s'intéresse aux masses de données (comme par exemple les faits et gestes du suspect etc) à analyser afin de définir la méthode de transformation (rapport de la pércusion du procureur de la république).
+ - Lors de ***la phase d'apprentissage*** la machine (i.e l'ordinateur) se base sur **plusieurs exemples** afin de comprendre **la logique du modèle qu'elle doit intégrer**. On dirait un agent de la **CIA ou du FBI** (la machine) qui surveille un **présumé suspect** (l'exemple de sortie) pour savoir la plus belle manière de la cuisiner, ah c'est pas bien tout ça ! Lors de cette phase, le machine learning s'intéresse aux masses de données (comme par exemple les faits et gestes du suspect etc) à analyser afin de définir la méthode de transformation (rapport de la pércusion du procureur de la république).
  
- - Ensuite vienne la phase de prédiction, après avoir intégré le raisonnement et l'algorithme du problème en question. 
+ - Ensuite vienne ***la phase de prédiction***, après avoir intégré le raisonnement et l'algorithme du problème en question. 
  Autrement le moment de la prise de décision, comme si l'agent FBI a finalisé l'enquête et qu'il ne reste qu'à faire la percussion chez le présumé suspect. 
  Ouh c'est délicat non. Ainsi le machine learning doit être en capacité de déterminer la finalité d’une situation donnée. 
  Plus l’apprentissage du machine learning est complet, plus les prédictions obtenues par cet outil seront précises.
@@ -38,7 +38,7 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
 
 On se pose la question de savoir est-ce que la manière dont fonction le machine learning est idem avec la méthodologie de l’Homme ? 
 
-**À vrai dire passons à une démonstration visuel ! : " Machine Learning VS l'Homme "** 
+**À vrai dire passons à une démonstration visuel ! : "Machine Learning VS l'Homme"** 
 
 Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture. 
 C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning ! WAOUH ! 
@@ -88,16 +88,16 @@ Transformation des entrées en nombres et puis laisser la place à un algorithme
 
 ![image](https://drive.google.com/uc?export=view&id=1RWgCDHHNT8k6fSJMsLwqoWju_mkkT--d)
 
-**Et voilà la recette du poulet 
-i.**
+**Et voilà la recette du poulet rôti**
 
 ![image](https://drive.google.com/uc?export=view&id=1m8ieM54izQuQykLKPva9AoDtVSrMnzHY)
 
+## Conclusion
 
 En définitive pour résoudre un problème de machine learning, où algorithmique d'une manière générale, 
 il est primordial de réfléchir en amont à la sortie voulue, contrairement à certaines méthodologies classiques.
 
-                    PSW 
+                                                                                 PSW 
 
 **Source**
  [Machine learning roadmap 2020: Daniel Bourke](https://www.mrdbourke.com/2020-machine-learning-roadmap/)
