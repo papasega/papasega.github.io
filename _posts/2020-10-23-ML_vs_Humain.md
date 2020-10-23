@@ -41,7 +41,7 @@ On se pose la question de savoir est-ce que la manière dont fonction le machine
 **À vrai dire passons à une démonstration visuel ! : "Machine Learning VS l'Homme"** 
 
 Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture. 
-C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning ! WAOUH ! 
+C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning Waouh ! 
 Oui, du poulet rôti, elles adorent préparer ça nos mamy. 
 Ainsi vous allez vous en rendre compte que le machine learning est différent de la manière dont fonctionnent les méthodes traditionnelles. 
 Le machine learning transforme les données en nombres et trouve des modèles dans ces nombres.
