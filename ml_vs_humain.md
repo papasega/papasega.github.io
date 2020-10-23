@@ -8,11 +8,11 @@ tags: [Machine Learning, ALgorithme, méthode, training]
 comments: true
 ---
 
-### Comment le machine learning cuisine le poulet rôtit ? 
+### Comment le machine learning cuisine le poulet rôti ? 
 
 ![image](https://drive.google.com/uc?export=view&id=1GMZW6oIEr6NBYt0WiM1bnxmIZuOeLSmB)
 
-# Rappel: definition du machine learning. 
+### Rappel: definition du machine learning. 
 À travers le mot "humain" je veux dire par là, la méthode traditionnelle utilisée par l'Homme, qui est d'ailleurs naturelle.
 La répétition est sans doute bénéfique, donc rien ne nous empêche de rappeler ce qu'est le machine learning ! 
 
@@ -36,11 +36,12 @@ La répétition est sans doute bénéfique, donc rien ne nous empêche de rappel
  Non rassurez vous c'est pas totalement le cas
 
 On se pose la question de savoir est-ce que la manière dont fonction le machine learning est idem avec la méthodologie de l’Homme ? 
+
 **À vrai dire passons à une démonstration visuel ! : " Machine Learning VS l'Homme "** 
 
 Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture. 
 C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning ! WAOUH ! 
-Oui, du poulet rôtit, elles adorent préparer ça nos mamy. 
+Oui, du poulet rôti, elles adorent préparer ça nos mamy. 
 Ainsi vous allez vous en rendre compte que le machine learning est différent de la manière dont fonctionnent les méthodes traditionnelles. 
 Le machine learning transforme les données en nombres et trouve des modèles dans ces nombres.
 L'ordinateur fait cette partie à savoir trouver des modèles.
@@ -70,8 +71,9 @@ Une chose est clair est qu'elle nous préconisera sûrement la méthodologie cla
 Donc dans la programmation traditionnelle on voit que notre grande mère a suivi  la manière classique c'est à dire les 5 étapes.  
 
 **Regardons maintenant comment va procéder un algorithme de machine. **
+
 Si je demande à un algorithme de machine learning d'effectuer cette tâche c'est-à-dire la cuisson du poulet avec des légumes. 
-Alors ce dernier commence généralement par un ensemble d'entrées (le poulet cru et nos légumes) et un ensemble de sorties idéales, dans ce cas l'idée de sortie est le poulet rôtit sur l'assiette.
+Alors ce dernier commence généralement par un ensemble d'entrées (le poulet cru et nos légumes) et un ensemble de sorties idéales, dans ce cas l'idée de sortie est le poulet rôti sur l'assiette.
 Cette phase d'observation pourrait sembler être cent ou mille exemples différents de ces entrées et sorties, puis il va comprendre les instructions à quoi la recette est plutôt. 
 Nous n'avons pas besoin d'écrire explicitement ces instructions, c'est l'algorithme d'apprentissage automatique qui détermine les modèles dans les données avant même qu'il ne puisse même comprendre un moyen de traduire ces entrées et sorties en chiffres
 
@@ -85,7 +87,8 @@ Transformation des entrées en nombres et puis laisser la place à un algorithme
 
 ![image](https://drive.google.com/uc?export=view&id=1RWgCDHHNT8k6fSJMsLwqoWju_mkkT--d)
 
-Et voilà le plat est servi. 
+**Et voilà la recette du poulet 
+i.**
 
 ![image](https://drive.google.com/uc?export=view&id=1m8ieM54izQuQykLKPva9AoDtVSrMnzHY)
 
@@ -93,5 +96,5 @@ Et voilà le plat est servi.
 En définitive pour résoudre un problème de machine learning, où algorithmique d'une manière générale, 
 il est primordial de réfléchir en amont à la sortie voulue, contrairement à certaines méthodologies classiques.
 
-PSW 
+                    PSW 
 
