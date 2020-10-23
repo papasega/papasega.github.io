@@ -98,3 +98,5 @@ il est primordial de réfléchir en amont à la sortie voulue, contrairement à 
 
                     PSW 
 
+**Source**
+ [Machine learning roadmap 2020: Daniel Bourke](https://www.mrdbourke.com/2020-machine-learning-roadmap/)
