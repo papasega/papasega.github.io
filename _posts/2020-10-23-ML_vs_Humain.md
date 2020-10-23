@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithme de machine learning vs méthode de "l'humain"
-subtitle: Comparaissons entre un algorithme de machine learning et la méthode de l'Homme.
+subtitle: Comparaison entre algorithme de machine learning et la méthode de l'Homme.
 bigimg: img/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
 #share-img: https://github.com/papasega/psw_blog/tree/master/img/posts/ARS.png
 tags: [Machine Learning, ALgorithme, méthode, training]
