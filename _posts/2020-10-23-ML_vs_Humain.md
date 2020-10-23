@@ -12,12 +12,13 @@ comments: true
 
 ![image](https://drive.google.com/uc?export=view&id=1GMZW6oIEr6NBYt0WiM1bnxmIZuOeLSmB)
 
-### Rappel: definition du machine learning. 
+### Rappel: définition du machine learning. 
 À travers le mot "humain" je veux dire par là, la méthode traditionnelle utilisée par l'Homme, qui est d'ailleurs naturelle.
-La répétition est sans doute bénéfique, donc rien ne nous empêche de rappeler ce qu'est le machine learning ! 
+
+COmme la répétition est sans doute bénéfique, donc rien ne nous empêche de rappeler ce qu'est le machine learning ! 
 
 
- Régulièrement appelé “Apprentissage automatique”, de nos confrères francophone, 
+ Régulièrement appelé “Apprentissage automatique”, 
  le machine learning est un domaine s’intéressant aux capacités d’apprentissage d’une machine et son mode de fonctionnement. 
  
  L’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
