@@ -61,12 +61,15 @@ Une chose est clair est qu'elle nous préconisera sûrement la méthodologie cla
   - 5 le plat est servi, top!.  
 
 **La recette**
+
 ![image](https://drive.google.com/uc?export=view&id=1nkKroLd2oPZR93BKJP-dnXCDu5CCEwbM)
 
 **Phase de préparation du poulet et des légumes** 
+
 ![image](https://drive.google.com/uc?export=view&id=1SM_cmiVtMlEuAMhhJ_Mrh8NFaW12VbE8)
 
 **Le service royal**
+
 ![image](https://drive.google.com/uc?export=view&id=13kX6r8qBfSZtm8cFxw9hwaQmoH0MP-IQ)
 
 Donc dans la programmation traditionnelle on voit que notre grande mère a suivi  la manière classique c'est à dire les 5 étapes.  
