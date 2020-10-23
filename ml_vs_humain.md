@@ -1,3 +1,4 @@
+---
 layout: post
 title: Algorithme de machine learning vs méthode de "l'humain"
 subtitle: Comparaissons entre un algorithme de machine learning et la méthode de l'Homme.
