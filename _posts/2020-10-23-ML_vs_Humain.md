@@ -54,11 +54,11 @@ Et si on s'amusait de poser la question suivante à notre grande mère !
 Mamy !! comment cuisiner ce poulet à la sénégalaise ?  
 Une chose est clair est qu'elle nous préconisera sûrement la méthodologie classique à savoir : 
 
-  - 1. éplucher les légumes,  
-  - 2. assaisonner le poulet,  
-  - 3. puis mettre l'huile sur le poêle et cuire le poulet pendant 20 mn
-  - 4. afin ajouter les légumes 
-  - 5. le plat est servi, top!.  
+  - 1 éplucher les légumes,  
+  - 2 assaisonner le poulet,  
+  - 3 puis mettre l'huile sur le poêle et cuire le poulet pendant 20 mn
+  - 4 afin ajouter les légumes 
+  - 5 le plat est servi, top!.  
 
 **La recette**
 ![image](https://drive.google.com/uc?export=view&id=1nkKroLd2oPZR93BKJP-dnXCDu5CCEwbM)
@@ -71,7 +71,7 @@ Une chose est clair est qu'elle nous préconisera sûrement la méthodologie cla
 
 Donc dans la programmation traditionnelle on voit que notre grande mère a suivi  la manière classique c'est à dire les 5 étapes.  
 
-**Regardons maintenant comment va procéder un algorithme de machine. **
+**Regardons maintenant comment va procéder un algorithme de machine**.
 
 Si je demande à un algorithme de machine learning d'effectuer cette tâche c'est-à-dire la cuisson du poulet avec des légumes. 
 Alors ce dernier commence généralement par un ensemble d'entrées (le poulet cru et nos légumes) et un ensemble de sorties idéales, dans ce cas l'idée de sortie est le poulet rôti sur l'assiette.
