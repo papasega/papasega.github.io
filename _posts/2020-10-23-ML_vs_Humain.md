@@ -21,7 +21,7 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
  Régulièrement appelé “Apprentissage Automatique”, 
  le machine learning est un domaine s’intéressant aux capacités d’apprentissage d’une machine et son mode de fonctionnement. 
  
- L’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
+ Cependant l’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
  Le machine learning se divise en deux principales phases : la phase **d'apprentissage** et la phase de **prédiction**. 
  
  - Lors de la phase d'apprentissage la machine (i.e l'ordinateur) se base sur **plusieur exemple** afin de comprendre la logique du modèle qu'elle doit intégrer. 
