@@ -18,7 +18,7 @@ comments: true
 Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de rappeler ce qu'est le machine learning ! 
 
 
- Régulièrement appelé “Apprentissage automatique”, 
+ Régulièrement appelé “Apprentissage Automatique”, 
  le machine learning est un domaine s’intéressant aux capacités d’apprentissage d’une machine et son mode de fonctionnement. 
  
  L’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
