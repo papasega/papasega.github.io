@@ -25,7 +25,7 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
  le machine learning est un domaine s’intéressant aux capacités d’apprentissage d’une machine et son mode de fonctionnement. 
  
  Cependant l’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
- Le machine learning se divise en deux principales phases : la phase **d'apprentissage** et la phase de **prédiction**. 
+ Le machine learning se divise en deux principales phases : la phase **d'apprentissage** (marinade du poulet) et la phase de **prédiction** (cuisson du poulet, lol vous allez coomprendre dans la suite ). 
  
  - Lors de ***la phase d'apprentissage***, la machine (i.e l'ordinateur) se base sur **plusieurs exemples** afin de comprendre **la logique du modèle qu'elle doit intégrer**. On dirait un agent de la ***CIA*** 🕵️‍ ou du ***FBI*** 👮‍ (c'est-à-dire la machine) qui surveille un **présumé suspect** (l'exemple de sortie de notre algorithme) pour savoir la plus belle manière de cuisiner le suspect au moment de la garde à vue, ah c'est pas bien tout ça non ! Lors de cette phase, le machine learning s'intéresse aux masses de données (comme par exemple l'agent FBI qui s'intéresse aux faits et gestes du suspect etc) à analyser afin de définir la méthode de transformation (autorisation de perquisition du procureur de la république).
  
