@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithme de machine learning vs méthode de "l'humain"
+title: Algorithme de machine learning 🤖 vs méthode de "l'humain" 
 subtitle: Comparaison entre algorithme de machine learning et la méthode de l'Homme.
 bigimg: img/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
 #share-img: https://github.com/papasega/psw_blog/tree/master/img/posts/ARS.png
@@ -8,7 +8,7 @@ tags: [Machine Learning, ALgorithme, méthode, training]
 comments: true
 ---
 
-### Quand le machine learning cuisine le poulet rôti aux légumes 😱!
+### Quand le machine learning cuisine le poulet rôti aux légumes 😀!
 
 
 ![image](https://drive.google.com/uc?export=view&id=1XSdl1-QwxTQGLO3JbTXxoIV2hiuI3eE1)
@@ -46,6 +46,7 @@ On se pose la question de savoir est-ce que la manière dont fonction le machine
 Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture🤤. 
 C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning Waouh ! 
 Oui, du poulet rôti, elles adorent préparer ça nos mamy. 
+
 Ainsi vous allez vous en rendre compte que le machine learning est différent de la manière dont fonctionnent les méthodes traditionnelles. 
 Le machine learning transforme les données en nombres et trouve des modèles dans ces nombres.
 L'ordinateur fait cette partie à savoir trouver des modèles.
