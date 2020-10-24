@@ -48,7 +48,7 @@ C'est justement ce que nous allons faire pour répondre à la question posée. P
 Oui, du poulet rôti, elles adorent préparer ça nos mamy. 
 
 Ainsi vous allez vous en rendre compte que le machine learning est différent de la manière dont fonctionnent les méthodes traditionnelles. 
-Le machine learning transforme les données en nombres et trouve des modèles dans ces nombres.
+Le machine learning transforme les données en nombre et trouve des modèles dans ces nombres.
 L'ordinateur fait cette partie à savoir trouver des modèles.
 
 Alors revenons à notre jeu concours de cuisson du poulet aux légumes. Et attention je suis un chef étoilé !
