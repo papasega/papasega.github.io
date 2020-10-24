@@ -11,7 +11,7 @@ comments: true
 ### Quand le machine learning cuisine le poulet rôti aux légumes !
 
 
-![image](https://drive.google.com/uc?export=view&id=1PK-LnAEHFes6syPxmpnzd-6YYMCPT4m-)
+![image](https://drive.google.com/uc?export=view&id=1XSdl1-QwxTQGLO3JbTXxoIV2hiuI3eE1)
 
 ![image](https://drive.google.com/uc?export=view&id=1GMZW6oIEr6NBYt0WiM1bnxmIZuOeLSmB)
 
