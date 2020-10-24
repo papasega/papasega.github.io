@@ -8,7 +8,7 @@ tags: [Machine Learning, ALgorithme, méthode, training]
 comments: true
 ---
 
-### Quand le machine learning cuisine le poulet rôti aux légumes !
+### Quand le machine learning cuisine le poulet rôti aux légumes 😱!
 
 
 ![image](https://drive.google.com/uc?export=view&id=1XSdl1-QwxTQGLO3JbTXxoIV2hiuI3eE1)
@@ -27,7 +27,7 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
  Cependant l’objectif du machine learning est donc d’entraîner un algorithme pour traiter de manière pertinente et efficace les différentes données à disposition. 
  Le machine learning se divise en deux principales phases : la phase **d'apprentissage** et la phase de **prédiction**. 
  
- - Lors de ***la phase d'apprentissage***, la machine (i.e l'ordinateur) se base sur **plusieurs exemples** afin de comprendre **la logique du modèle qu'elle doit intégrer**. On dirait un agent de la ***CIA*** ou du ***FBI*** (c'est-à-dire la machine) qui surveille un **présumé suspect** (l'exemple de sortie de notre algorithme) pour savoir la plus belle manière de cuisiner le suspect au moment de la garde à vue, ah c'est pas bien tout ça non ! Lors de cette phase, le machine learning s'intéresse aux masses de données (comme par exemple l'agent FBI qui s'intéresse aux faits et gestes du suspect etc) à analyser afin de définir la méthode de transformation (autorisation de perquisition du procureur de la république).
+ - Lors de ***la phase d'apprentissage***, la machine (i.e l'ordinateur) se base sur **plusieurs exemples** afin de comprendre **la logique du modèle qu'elle doit intégrer**. On dirait un agent de la ***CIA*** 🕵️‍ ou du ***FBI*** 👮‍ (c'est-à-dire la machine) qui surveille un **présumé suspect** (l'exemple de sortie de notre algorithme) pour savoir la plus belle manière de cuisiner le suspect au moment de la garde à vue, ah c'est pas bien tout ça non ! Lors de cette phase, le machine learning s'intéresse aux masses de données (comme par exemple l'agent FBI qui s'intéresse aux faits et gestes du suspect etc) à analyser afin de définir la méthode de transformation (autorisation de perquisition du procureur de la république).
  
  - Ensuite vient ***la phase de prédiction***, après avoir intégré le raisonnement et l'algorithme du problème en question. 
  Autrement le moment de la prise de décision, comme si l'agent FBI a finalisé l'enquête et qu'il ne reste qu'à faire la percussion chez le présumé suspect. 
@@ -35,15 +35,15 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
  Plus l’apprentissage du machine learning est complet, plus les prédictions obtenues par cet outil seront précises.
  
  
- Vous allez sans doute vous dire, mais alors le machine learning n’est que du “plagiat”, 
+ Vous allez sans doute vous dire, mais alors le machine learning n’est que du “plagiat” 🤔, 
  il observe beaucoup d’exemples puis reproduit les même tâches, comme la fait l'agent FBI en suveillant plusieurs fois le présumé suspect. 
  Non rassurez vous c'est pas totalement le cas.
 
 On se pose la question de savoir est-ce que la manière dont fonction le machine learning est idem avec la méthodologie de l’Homme ? 
 
-**À vrai dire passons à une démonstration visuel ! : "Machine Learning VS l'Homme"** 
+**À vrai dire passons à une démonstration visuelle ! 😎: "Machine Learning VS l'Homme"** 
 
-Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture. 
+Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture🤤. 
 C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning Waouh ! 
 Oui, du poulet rôti, elles adorent préparer ça nos mamy. 
 Ainsi vous allez vous en rendre compte que le machine learning est différent de la manière dont fonctionnent les méthodes traditionnelles. 
