@@ -30,7 +30,7 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
  - Lors de ***la phase d'apprentissage***, la machine (i.e l'ordinateur) se base sur **plusieurs exemples** afin de comprendre **la logique du modèle qu'elle doit intégrer**. On dirait un agent de la ***CIA*** 🕵️‍ ou du ***FBI*** 👮‍ (c'est-à-dire la machine) qui surveille un **présumé suspect** (l'exemple de sortie de notre algorithme) pour savoir la plus belle manière de cuisiner le suspect au moment de la garde à vue, ah c'est pas bien tout ça non ! Lors de cette phase, le machine learning s'intéresse aux masses de données (comme par exemple l'agent FBI qui s'intéresse aux faits et gestes du suspect etc) à analyser afin de définir la méthode de transformation (autorisation de perquisition du procureur de la république).
  
  - Ensuite vient ***la phase de prédiction***, après avoir intégré le raisonnement et l'algorithme du problème en question. 
- Autrement le moment de la prise de décision, comme si l'agent FBI a finalisé l'enquête et qu'il ne reste qu'à faire la percussion chez le présumé suspect. 
+ Autrement le moment de la prise de décision, comme si l'agent FBI a finalisé l'enquête et qu'il ne reste qu'à faire la perquisition chez le présumé suspect. 
  Ouh c'est délicat non. Ainsi le machine learning doit être en capacité de déterminer la finalité d’une situation donnée. 
  Plus l’apprentissage du machine learning est complet, plus les prédictions obtenues par cet outil seront précises.
  
