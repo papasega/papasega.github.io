@@ -18,7 +18,7 @@ comments: true
 ### Rappel: définition du machine learning. 
 À travers le mot "humain" je veux dire par là, la méthode traditionnelle utilisée par l'Homme, qui est d'ailleurs naturelle.
 
-Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de rappeler qu'est ce que le machine learning.  
+Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de rappeler qu'est ce que le machine learning ?  
 
 
  Régulièrement appelé “Apprentissage Automatique”, 
