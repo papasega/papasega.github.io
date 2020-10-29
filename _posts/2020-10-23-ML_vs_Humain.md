@@ -15,6 +15,8 @@ comments: true
 
 ![image](https://drive.google.com/uc?export=view&id=1GMZW6oIEr6NBYt0WiM1bnxmIZuOeLSmB)
 
+
+
 ### Rappel: définition du machine learning. 
 À travers le mot "humain" je veux dire par là, la méthode traditionnelle utilisée par l'Homme, qui est d'ailleurs naturelle.
 
@@ -42,6 +44,8 @@ Comme la répétition est sans doute bénéfique, donc rien ne nous empêche de 
 On se pose la question de savoir est-ce que la manière dont fonction le machine learning est idem avec la méthodologie de l’Homme ? 
 
 **À vrai dire passons à une démonstration visuelle ! 😎: "Machine Learning VS l'Homme"** 
+
+![image](https://drive.google.com/uc?export=view&id=1veqVFknDuF0YgqLz-gyDQLCErSC993Mh)
 
 Vous avez surement entendu: c’est toujours le bon moment de parler de la nourriture🤤. 
 C'est justement ce que nous allons faire pour répondre à la question posée. Pour ce faire nous allons demander à notre grande mère de faire un concours de cuisine avec le machine learning Waouh ! 
