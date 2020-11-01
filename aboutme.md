@@ -53,7 +53,7 @@ Thanks my bro, my champion [Souleymane Cissokho](https://www.instagram.com/soule
 
 * 🥇🥇 Double champion île-de-France universitaire 2018 & 2019 🏹🎯🎯🎯
 
-* 🥇 Équipe championne de l'Ecole Polytechnique du tournoi sportif des grandes écoles de la défense 2019.
+* 🥇 Équipe championne de l'Ecole Polytechnique du tournoi sportif des grandes écoles de la défense 2019, dans l'amphithéâtre Poincaré de l'X 🏹🎯🎯🎯.
 
 * 🥇 Champion du FightClub HEC 2019  4 -0 🏹🎯🎯🎯
 
