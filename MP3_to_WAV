@@ -1,0 +1,18 @@
+ffmpeg -i input.mp3 -acodec pcm_s16le -ac 1 -ar 16000 output.wav
+
+# To convert all mp3 files in a directory in Linux:
+
+for f in *.mp3; do ffmpeg -i "$f" -acodec pcm_s16le -ac 1 -ar 16000 "${f%.mp3}.wav"; done
+
+# Or Windows:
+
+for /r %i in (*) do ffmpeg -i %i -acodec pcm_s16le -ac 1 -ar 16000 %i.wav
+
+# You can see file information with file, ffmpeg, ffprobe, mediainfo among other utilities:
+
+$ file hjl0bC.wav 
+hjl0bC.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 16000 Hz
+
+$ ffmpeg -i hjl0bC.wav
+[...]
+Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, mono, s16, 256 kb/s
