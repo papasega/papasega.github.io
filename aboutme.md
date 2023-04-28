@@ -38,7 +38,7 @@ Mais aussi de **la boxe**.
      
 La belle boxe 🥊 de l'école cubaine: "toucher sans pour autant se faire toucher".
 
-**Pour moi la boxe c'est une question d'esquives !** 
+**Pour moi la boxe ce n'est qu'une question d'esquives !** 
 
 <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1MzgUihp1K7rW5j2oVjGchibP7uZ9tDSS">
 
