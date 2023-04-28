@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Papa S. WADE
+title: Papa Séga WADE
 
 # Short description of your site
-description: Les Maths et IA en particulier en Reconnaissance Automatique de la Parole (RAP) 
+description: Les Maths et IA en particulier (NLP, ASR, Signal Processing)
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -51,7 +51,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "/img/avatar_psw.jpg"  #footerbg.png"
+footer-img: "/img/index_pagegit.jpg"  #footerbg.png"
 # page-img: "/img/light-grey-terrazzo/light-grey-terrazzo.png"
 
 # --- Footer options --- #
