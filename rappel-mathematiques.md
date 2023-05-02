@@ -1,7 +1,6 @@
-{% for post in site.posts %}
-  {% if post.categories contains 'rappel-mathematiques' %}
-    <!-- Insérez ici le code pour afficher l'article (voir étape 3) -->
-    <article class="post-preview">
+{% for post in site.categories.rappel-mathematiques %}
+  <!-- Insérez ici le code pour afficher l'article (voir étape 3) -->
+  <article class="post-preview">
   <a href="{{ post.url | relative_url }}">
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
@@ -31,5 +30,4 @@
   </div>
 </article>
 
-  {% endif %}
 {% endfor %}
