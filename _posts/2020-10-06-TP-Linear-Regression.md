@@ -6,6 +6,7 @@ bigimg: img/The-linear-regression-model.png
 share-img: img/ML_intro.png
 tags: [IA, maths, algébre, PSW]
 comments: true
+categories: machine-learning
 ---
 
 # TP -- Régression Linéaire
