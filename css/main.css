@@ -4,6 +4,47 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+
+/* Section Catégories */
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.category-card {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+  width: 300px;
+  transition: all 0.3s ease;
+}
+
+.category-card:hover {
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+
+.category-card a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.category-card h3 {
+  margin-bottom: 0.5rem;
+}
+
+.category-card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+
 /* --- General --- */
 
 body {
