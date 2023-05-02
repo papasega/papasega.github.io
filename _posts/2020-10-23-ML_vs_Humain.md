@@ -6,6 +6,7 @@ bigimg: img/Websites_Redesign_Backgrounds_DT_Robotics1_2018.jpg
 #share-img: https://github.com/papasega/psw_blog/tree/master/img/posts/ARS.png
 tags: [Machine Learning, ALgorithme, méthode, training]
 comments: true
+categories: machine-learning
 ---
 
 ### Quand le machine learning cuisine le poulet rôti aux légumes 😀!
