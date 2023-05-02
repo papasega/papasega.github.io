@@ -6,17 +6,28 @@ bigimg: img/deeplearningjif.gif
 use-site-title: true
 ---
 
+<!-- Ajout de la section Catégories -->
+<div class="categories">
+  <h2>Catégories</h2>
+  <ul>
+    <li><a href="/Machine Learning">Machine Learning</a></li>
+    <li><a href="/Deep Learning">Deep Learning</a></li>
+    <li><a href="/NLP">NLP</a></li>
+  </ul>
+</div>
+<!-- Fin de la section Catégories -->
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    <h2 class="post-title">{{ post.title }}</h2>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+      {{ post.subtitle }}
+    </h3>
+    {% endif %}
     </a>
 
     <p class="post-meta">
