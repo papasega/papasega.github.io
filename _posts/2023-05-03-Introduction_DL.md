@@ -2,7 +2,9 @@
 layout: post
 title: Introduction au Deep Learning partie 1
 subtitle: Comprendre les concepts fondamentaux
+date: 2023-05-03
 bigimg: img/deep_learning.gif
+share-img:img/neural_network.jpg
 tags: [Deep Learning, AI, Neural Networks]
 comments: true
 categories: deep-learning
