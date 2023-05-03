@@ -1,3 +1,9 @@
+---
+layout: page
+title: Deep Learning
+subtitle: Articles et tutoriels sur le Deep Learning
+permalink: /deep-learning/
+---
 {% for post in site.categories.deep-learning %}
   <!-- Insérez ici le code pour afficher l'article (voir étape 3) -->
   <article class="post-preview">
