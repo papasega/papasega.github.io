@@ -168,9 +168,5 @@ plt.ylabel("$y$");
 
 
 
-
-
-
-
 ***********************************************
 Great tuto by Marc Deisenroth (english version)
