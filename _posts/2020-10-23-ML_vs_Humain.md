@@ -109,7 +109,7 @@ transformation des entrées en nombres et puis laisser la place à un algorithme
 En définitive pour résoudre un problème de machine learning, où algorithmique d'une manière générale, 
 il est primordial de réfléchir en amont à la sortie voulue, contrairement à certaines méthodologies classiques.
 
-                                                                      PSW 
+                                                                  PSW 
 
 **Source des images**
  [Daniel Bourke](https://www.mrdbourke.com/2020-machine-learning-roadmap/)
