@@ -7,6 +7,7 @@ bigimg: img/deep_learning.gif
 share-img: img/neural_network.jpg
 tags: [Deep Learning, AI, Neural Networks]
 comments: true
+categories: deep-learning
 ---
 
 # Introduction au Deep Learning
