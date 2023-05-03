@@ -94,3 +94,39 @@
   color: #a371f7; /* Literal.String.Backtick */
 }
 .highlight .sc {
+  
+pre code .nb {
+  color: #F8F8F2; /* Couleur du texte normal */
+}
+
+pre code .k {
+  color: #F92672; /* Couleur des mots-clés */
+}
+
+pre code .s {
+  color: #E6DB74; /* Couleur des chaînes de caractères */
+}
+
+pre code .n {
+  color: #A6E22E; /* Couleur des nombres */
+}
+
+pre code .o {
+  color: #F92672; /* Couleur des opérateurs */
+}
+
+pre code .c1 {
+  color: #75715E; /* Couleur des commentaires */
+}
+
+pre code .nc {
+  color: #66D9EF; /* Couleur des noms de classes */
+}
+
+pre code .nf {
+  color: #A6E22E; /* Couleur des noms de fonctions */
+}
+pre code {
+  font-size: 16px; /* Modifiez cette valeur pour ajuster la taille du texte */
+}
+
