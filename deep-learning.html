@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning
 subtitle: Articles sur le Deep Learning
 ---
-
+{% include category-page.html category="deep-learning" %}
 {% for post in site.posts %}
   {% if post.categories contains 'deep-learning' %}
     <article class="post-preview">
