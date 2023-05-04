@@ -26,7 +26,7 @@ Un réseau de neurones est composé de couches de neurones interconnectés. Chaq
    $$ y = f\left(\sum_{i=1}^n w_i x_i + b\right) $$
 
 
-où $x_i$ sont les entrées, $w_i$ sont les poids, $b$ est le biais et $f$ est la fonction d'activation.
+où \[ x_i \] sont les entrées, \[ w_i \]  sont les poids, \[ b \]   est le biais et \[ f \]  est la fonction d'activation.
 
 
 <img src="/img/neural_net.gif" alt="Neural Network Architecture" title="Architecture d'un Réseau de Neurone: source 3Blue1Brown">
