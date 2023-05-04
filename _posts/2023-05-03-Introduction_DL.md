@@ -22,9 +22,9 @@ Le deep learning est une branche de l'intelligence artificielle (IA) qui se conc
 
 Un réseau de neurones est composé de couches de neurones interconnectés. Chaque neurone reçoit des entrées, effectue un calcul et produit une sortie. Les entrées sont pondérées par des poids, qui sont ajustés lors de l'apprentissage pour améliorer la performance du réseau. Les calculs effectués par un neurone peuvent être représentés par l'équation suivante :
 
-$$
-y = f\left(\sum_{i=1}^n w_i x_i + b\right)
-$$
+
+   $$ y = f\left(\sum_{i=1}^n w_i x_i + b\right) $$
+
 
 où $x_i$ sont les entrées, $w_i$ sont les poids, $b$ est le biais et $f$ est la fonction d'activation.
 
@@ -80,9 +80,9 @@ test_images = test_images / 255.0
 #### Création du modèle
 Maintenant que les données sont prêtes, nous pouvons créer notre modèle de deep learning. Dans cet exemple, nous utiliserons un modèle séquentiel simple avec trois couches :
 
-    - Une couche d'aplatissement pour transformer les images 2D (28x28 pixels) en un tableau 1D (784 pixels)
-    - Une couche dense avec 128 neurones et une fonction d'activation ReLU
-    - Une couche dense avec 10 neurones (un pour chaque catégorie) et une fonction d'activation softmax
+- Une couche d'aplatissement pour transformer les images 2D (28x28 pixels) en un tableau 1D (784 pixels)
+- Une couche dense avec 128 neurones et une fonction d'activation ReLU
+- Une couche dense avec 10 neurones (un pour chaque catégorie) et une fonction d'activation softmax
 Voici comment créer ce modèle avec Keras :
 
 ```python
@@ -96,9 +96,9 @@ model = keras.Sequential([
 #### Compilation du modèle
 Avant de commencer l'entraînement, nous devons compiler notre modèle. Pour cela, nous devons définir la fonction de perte, l'optimiseur et les métriques que nous souhaitons suivre pendant l'entraînement. Dans cet exemple, nous utiliserons :
 
-    - La fonction de perte sparse_categorical_crossentropy, adaptée aux problèmes de classification avec plusieurs catégories
-    - L'optimiseur Adam, qui ajuste automatiquement le taux d'apprentissage pour une meilleure convergence
-    - La métrique accuracy pour suivre la précision de notre modèle
+ - La fonction de perte sparse_categorical_crossentropy, adaptée aux problèmes de classification avec plusieurs catégories
+ - L'optimiseur Adam, qui ajuste automatiquement le taux d'apprentissage pour une meilleure convergence
+ - La métrique accuracy pour suivre la précision de notre modèle
 Voici comment compiler le modèle :
 
 
