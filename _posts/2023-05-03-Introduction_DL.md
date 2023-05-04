@@ -129,8 +129,7 @@ Enfin, nous pouvons utiliser notre modèle entraîné pour prédire les catégor
 
 
 ```python
-Prédictions
-Enfin, nous pouvons utiliser notre modèle entraîné pour prédire les catégories des images de test en utilisant la méthode predict() :
+predictions = model.predict(test_images)
 ```
 
 Les prédictions sont représentées sous forme de tableaux contenant les scores de confiance pour chaque catégorie. Pour obtenir l'indice de la catégorie avec le score le plus élevé, nous pouvons utiliser la fonction argmax() de NumPy :
